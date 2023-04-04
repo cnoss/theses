@@ -10,7 +10,7 @@
 5. KI gestützte Beschreibungstexte aus strukturierten Daten als Plugin zur Integration in Shopsystemen.
 6. Beschreibungstexte aus strukturierten Daten anhand eines (Shopware) Plugins für den E-Commerce Bereich.
 7. Automatisierte Generierung von Beschreibungstexten durch Sprachmodelle: Entwicklung eines Plugins auf Basis strukturierter Produktdaten.
-8. Entwicklung einer automatisierten Lösung zur Generierung von Beschreibungstexten für Wein im E-Commerce Bereich auf Basis strukturierter Produktdaten.
+8. **Entwicklung einer automatisierten Lösung zur Generierung von Beschreibungstexten für Wein im E-Commerce Bereich auf Basis strukturierter Produktdaten.**
 9. Aufstellen eines Vorgehens zur Qualitätskontrolle/Evaluierung von automatisch generierten Beschreibungstexten aus dem E-Commerce Bereich.
 10. Vergleich von Sprachmodellen für die automatische Generierung von Beschreibungstexten aus strukturierten Daten anhand der Produktkategorie Wein.
 
@@ -22,10 +22,8 @@
 
 ## Forschungsfragen/Zielsetzungen
 
-1. Welches Sprachmodell eignet sich für die automatische Generierung von Beschreibungstexten?
-2. Welche Qualitätskriterien werden benötigt, um automatisch generierte Beschreibungstexte zu Bewerten?
-   1. Gibt es Unterschiede bei den Qualitätskriterien, wenn sich die Zielgruppe ändert?
-3. Wie kann die Qualität der Beschreibungstexte objektiv gemessen werden?
-4. Wie muss UX/UI gestaltet sein, um eine automatische Generierung/Evaluierung der Beschreibungstexte durch einen Experten/Editor im Shop-Backend effizient durchführen zu können?
-5. Wie kann die Generierung/Evaluierung von Beschreibungstexten bei einer Anzahl von mehreren Hundert Produkten effizient durchgeführt werden?
-6. Muss die Generierung der Beschreibungstexte voll-automatisiert funktionieren oder kann ein semi- bzw. teil-automatisierter Vorgang bereits Experten/Editoren unterstützen?
+1. Welches Sprachmodell eignet sich für die automatische Generierung aus strukturierten Produktmerkmalen von Beschreibungstexten?
+2. Welche Kriterien werden benötigt, um automatisch generierte Beschreibungstexte zu Bewerten?
+   1. Gibt es Unterschiede bei den Kriterien, wenn sich die Zielgruppe ändert?
+3. Wie muss UX/UI gestaltet sein, um eine automatische Generierung und Evaluierung der Beschreibungstexte durch einen Redakteur im Shop-Backend effizient durchführen zu können?
+4. Wie kann die Generierung und Evaluierung von Beschreibungstexten bei einer Anzahl von mehreren Hundert Produkten effizient durchgeführt werden?
