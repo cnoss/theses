@@ -4,7 +4,7 @@
 
 # Mögliche Titel
 
-- **Prototypische Evaluation der Nutzung und Darstellung von AR-Inhalten im Web, am Beispiel des Kooperationsprojektes “ARlebnispfades OBK”**
+- **Prototypische Evaluation der Nutzung und Darstellung von AR-Inhalten im Web, am Beispiel des Kooperationsprojektes “ARlebnispfad OBK”**
 
 <br>
 
