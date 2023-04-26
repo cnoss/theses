@@ -4,6 +4,8 @@
 
 # Mögliche Titel
 
+- Eine prototypische Evaluation der Nutzung und Darstellung von AR-Inhalten im Web, am Beispiel des Kooperationsprojektes “ARlebnispfades OBK”
+
 - Augmented Reality im Web - Eine Analyse technischer Möglichkeiten am Beispiel des “ARlebnispfad OBK”
 - AR im Web - Eine technische Analyse von Möglichkeiten und Herausforderungen
 - Eine Analyse technischer Möglichkeiten der Darstellung von AR-Inhalten im Web
