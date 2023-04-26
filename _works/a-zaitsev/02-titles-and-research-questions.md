@@ -19,8 +19,12 @@
 
 # Mögliche Forschungsfragen
 
-- Wie können AR-Inhalte im Web technisch dargestellt werden?
-- Welche Herausforderungen gibt es bei der Darstellung von AR-Inhalten im Web?
-- Inwiefern beeinflusst die Darstellung von AR-Inhalten im Web die Nutzungsbereitschaft dieser?
+1. Wie können AR-Inhalte im Web technisch dargestellt werden?
+2. Wie können positionsabhängige Audio- und Videoinhalte innerhalb eines AR-Erlebenisses im Web dargestellt werden?
+3. Welche Herausforderungen gibt es bei der Darstellung von AR-Inhalten im Web?
+
 - Welchen Einfluss hat die aktuelle Inkompatibilität von WebXR auf iOS-Geräten auf die Umsetzung von AR-Erlebnissen im Web?
-- Wie können positionsabhängige Audio- und Videoinhalte innerhalb eines AR-Erlebenisses im Web dargestellt werden?
+
+In einem anderen Projekt:
+- Inwiefern beeinflusst die Darstellung von AR-Inhalten im Web die Nutzungsbereitschaft dieser?
+
