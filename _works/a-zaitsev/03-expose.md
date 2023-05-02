@@ -1,8 +1,8 @@
-# Augmented Reality im Web - Eine Analyse technischer Möglichkeiten am Beispiel des “ARlebnispfad OBK”
+# Prototypische Evaluation der Nutzung und Darstellung von AR-Inhalten im Web, am Beispiel des Kooperationsprojektes “ARlebnispfad OBK”
 
 ## Problemfeld und Kontext
 
-Im Rahmen des Projekts "Historische Augment Reality Tour "ARlebnis OBK"" der VHS Oberberg soll entlang der [Straße der Arbeit][strasse-der-arbeit] in Wiehl und Wipperfürth ein innovatives Konzept zur digitalen Weiterbildung mittels Augmented Reality (AR) entwickelt werden. Es sollen ältere, nicht technikaffine Menschen sowie jüngere, technikaffine Menschen und Schulklassen gleichermaßen an neue Technologien herangeführt und ihnen gleichzeitig den Zugang zur Geschichte und Kultur ihrer Region ermöglicht werden. Der Fokus des Vorhabens liegt somit in der Förderung einer generationenübergreifenden, inklusiven und nachhaltigen Strategie zur digitalen Weiterbildung.
+Im Rahmen des Projekts "Historische Augment Reality Tour 'ARlebnis OBK'" der VHS Oberberg soll entlang der [Straße der Arbeit][strasse-der-arbeit] in Wiehl und Wipperfürth ein innovatives Konzept zur digitalen Weiterbildung mittels Augmented Reality (AR) entwickelt werden. Es sollen ältere, nicht technikaffine Menschen sowie jüngere, technikaffine Menschen und Schulklassen gleichermaßen an neue Technologien herangeführt und ihnen gleichzeitig den Zugang zur Geschichte und Kultur ihrer Region ermöglicht werden. Der Fokus des Vorhabens liegt somit in der Förderung einer generationenübergreifenden, inklusiven und nachhaltigen Strategie zur digitalen Weiterbildung.
 
 Augmented Reality gehört zum Sammelbegriff Extended Reality (XR) und umfasst zusätzlich die Technologien Virtual Reality (VR) und Mixed Reality (MR). Es wird davon ausgegangen, dass sich die Marktgröße des XR-Sektors von 2023 bis 2027 mehr als verdoppeln wird ([ARtillery Intelligence, 2022][ar-market-size]).
 
