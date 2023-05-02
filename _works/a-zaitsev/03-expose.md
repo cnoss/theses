@@ -39,27 +39,10 @@ Folgende Literatur könnte für die Bearbeitung des Projektes verwendet werden:
 
 Folgende Technologien und Ressourcen könnten zur Bearbeitung der Aufgabenstellung herangezogen werden:
 
-### WebXR
-
-Als WebXR wird die vom [World Wide Web Consortium (W3C)][webxr] entwickelte Spezifikation der WebXR Device API bezeichnet. Diese umfasst alle erforderlichen Technologien zur Darstellung von AR und VR Inhalten im Web und wird aktuell unter anderem von Google, Mozilla und Meta weiterentwickelt.
-
-Die API bietet zwar die erforderlichen Technoligien, ist aber aktuell noch stetig im Wandel und wird zudem aktuell nicht auf Apple iOS Geräten unterstützt.
-
-Außerdem wird zusätzlich eine 3D Bibliothek, wie z. B. [Three.js][threejs], zum Rendern der AR-Inhalte benötigt, da die direkte Entwicklung mit [WebGL][webgl] eventuell zu kompliziert ist.
-
-### AR.js
-
-Die Javascript Bibliothek [AR.js][arjs] bietet eine auf A-Frame und Three.js aufbauende Möglichkeit der Einbindung von AR-Inhalten im Web. Mit der Bibliothek können Marker, Bilder und Location Tracking verwendet werden.
-
-AR.js verwendet intern nicht die WebXR Device API, sondern die Bibliotheken [ARToolKit.js][artoolkitjs], Three.js, A-Frame und die Technologien WebGL und [WebRTC][webrtc].
-
-### A-Frame
-
-Das Web Framework [A-Frame][aframe] baut auf der 3D-Bibliothek Three.js auf und ermöglicht die Darstellung von 3D, AR und VR Erlbenissen im Web. Mit A-Frame können AR-Inhalte intern mit Hilfe der WebXR Device API, oder aber auf inkompatiblem Endgeräten über den [WebVR Polyfill][webvrpolyfill] dargestellt werden. Bei Verwendung des Polyfills muss mit einer niedrigeren Qualität des Endproduktes gerechnet werden.
-
-### Babylon.js
-
-[Babylon.js][babylonjs] bietet als Open Source Web Rendering Engine die Möglichkeit 3D Anwendungen und Videospiele für das Web zu erstellen. Zusätzlich dazu implementiert das Framework die WebXR Spezifikation zur Erstellung von AR-Inhalten im Web.
+- [WebXR API][webxr-mdn]
+- [AR.js][arjs]
+- [A-Frame][aframe]
+- [Babylon.js][babylonjs]
 
 ## Chancen und Risiken
 
@@ -100,6 +83,8 @@ Die zu erarbeitenden Meilensteine sind von den Inhalten des WPFs abhängig, kön
 
 Der 05.07.2023 ist im WPF als letzter Termin festgelegt. Somit könnte auch dieses Projekt bis zu diesem Termin bzw. bis Mitte Juli fertiggestellt werden.
 
+**Der 04.07.2023 ist im Sommersemester 2023 als der letzte Termin zur möglichen Abschlusspräsentation des Projektes festgelegt.**
+
 ## Arbeitsergebnis
 
 Das Ergebnis des Praxisprojektes soll eine genaue Darstellung der Möglichkeiten zur technischen Umsetzung von AR-Inhalten im Web sein und eine Antwort auf die gestellten Forschungsfragen beinhalten. Durch diese kann den Kooperationspartnern bei Fragen zur Einbindung von neuen Inhalt eine klar definierte Antwort mit den jeweiligen Möglichkeiten geboten werden.
@@ -112,6 +97,7 @@ Das Ergebnis des Praxisprojektes soll eine genaue Darstellung der Möglichkeiten
 [ar-core]: https://developers.google.com/ar
 [ar-kit]: https://developer.apple.com/augmented-reality/
 [webxr]: https://www.w3.org/TR/webxr/
+[webxr-mdn]: https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API
 [caniuse-webxr]: https://caniuse.com/webxr
 [webkit-bugtracker]: https://bugs.webkit.org/show_bug.cgi?id=208988
 [arjs]: https://github.com/AR-js-org/AR.js
