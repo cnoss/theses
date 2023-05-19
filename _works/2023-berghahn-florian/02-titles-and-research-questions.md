@@ -1,6 +1,6 @@
 # Titel und Forschungsfrage
 
-**Forschungsfragen:
+**Forschungsfragen:**
 1. Wie kann man ein Webgame für alle mobilen Endgeräte implementieren?
 2. Wie kann man ein auf dem Complementarity Pattern basierendes Webgame für alle mobilen
 Endgeräte implementieren?
@@ -11,7 +11,7 @@ Webgames einsetzen?
 6. Welche Techniken gibt es, um mobile Endgeräte als Controller für ein Browsergame zu nutzen?
 
 
-**Titel:
+**Titel:**
 1. Mobile Endgeräte als Controller - Implementierung eines webbasierten Minigames, das mobile
 Endgeräte zur Steuerung verwendet.
 2. Complementarity Pattern - Implementierung eines webbasierten Minigames, das mobile
