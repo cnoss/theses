@@ -36,8 +36,8 @@ Multiplayer Webgames einsetzen?
 
 1. Mobile Endgeräte als Controller: Umsetzungsmöglichkeiten des Complementarity Patterns am Beispiel eines webbasierten geräteübergreifenden Minigames.
 
-2. Mobile Endgeräte als Controller: Analyse der Implementierungsmöglichkeiten des Complementarity Patterns in einem webbasierten, geräteübergreifenden Minispiel.
+2. Mobile Endgeräte als Controller: Analyse der Implementierungsmöglichkeiten des Complementarity Patterns am Beispiel eines webbasierten, geräteübergreifenden Minispiels.
 
 3. Mobile Endgeräte als Controller: Erforschung der Realisierungsmöglichkeiten des Complementarity Patterns durch die Entwicklung eines webbasierten Minispiels, das geräteübergreifende Interaktion ermöglicht.
 
-4. Mobile Endgeräte als Controller - Evaluierung der Implementierungsmethoden des Complementarity Patterns am Beispiel eines webbasierten, geräteübergreifenden Minispiel.
+4. Mobile Endgeräte als Controller - Evaluierung der Implementierungsmethoden des Complementarity Patterns am Beispiel eines webbasierten, geräteübergreifenden Minispiels.
