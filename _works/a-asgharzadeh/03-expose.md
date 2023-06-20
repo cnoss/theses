@@ -5,10 +5,7 @@ Aaron Asgharzadeh
 
 ## Thema
 
-Um das Internet barrierefreier zu gestalten, werden Bilder vermehrt mit Alternativtexten ausgestattet. Diese sollen den Inhalt der Bilder als Text wiedergeben, welcher bspw. von Screenreadern ausgelesen werden kann.
-So kann man Sehbehinderten einen Zugang zu Internetgrafiken gewährleisten.
-Das Generieren von Alternativtexten könnte durch Image Captioning via KI automatisiert werden.
-Das Praxisprojekt befasst sich damit, wie gut Image Captioning Lösungen zum Generieren von Alternativtexten sind. Am Beispiel von AltText.ai wird untersucht wie genau KI generierte Alternativtexte sind und ob ihre Qualität durch gezielte Inputs beeinflusst werden kann; wo ihre Grenzen liegen und ob bestimmte Anwendungsbereiche zu bevorzugen sind.
+Alternativtexte für Bilder tragen dazu bei, dass Webseiten für mehr Benutzer zugänglich sind und ihnen ermöglichen, Inhalte zu verstehen, selbst wenn sie die Bilder nicht sehen können. Menschen mit Sehbehinderungen verwenden Screenreader, die den Inhalt einer Webseite vorlesen. Wenn ein Bild keinen Alternativtext hat, kann der Nutzer nicht verstehen, was auf dem Bild gezeigt wird. Durch die Bereitstellung eines präzisen und beschreibenden Alternativtextes können auch blinde oder sehbehinderte Menschen den Inhalt einer Webseite vollständig erfassen.
 
 ## Leitfrage
 
@@ -27,8 +24,7 @@ Es soll untersucht werden, ob aktuelle Image Captioning Lösungen ein sinnvoller
 
 ## Lösungsansätze
 
-Eine erste Herangehensweise besteht darin, das Tool durch systematische Anpassung von Inputs und Parametern zu untersuchen, um Möglichkeiten und Einschränkungen zu identifizieren.
-Durch ein verbessertes Verständnis des Tools können Lösungsansätze präziser ausgearbeitet werden.
+Zunächst werden Metriken ausgearbeitet, anhand derer Fragen bzgl. der Effektivität und ihrer Messung beantwortet werden können. Im Anschluss kann das Tool durch systematische Anpassung von Inputs und Parametern auf seine Potentiale und Einschränkungen untersucht werden. Durch ein verbessertes Verständnis des Tools können Lösungsansätze präziser angepasst werden.
 
 ## Ressourcen
 
