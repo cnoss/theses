@@ -10,40 +10,40 @@ Darüber hinaus können AI-basierte Tools zur Bilderkennung dabei helfen zu unte
 ###Beispiele für durch AI generierte/ergänzte Grafiken:
 
 Verschiedene Versionen vollständig generierter Grafiken von DALL-E 2 (https://openai.com/dall-e-2) für den Input "An astronaut riding a horse in photorealistic style."
-!(https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle6.jpg?trim=0,0,0,0&width=2000)
-!(https://images.openai.com/blob/65f7e2f3-cbd1-43c9-b2c5-7d8a3ebb9e3c/Anastronautridingahorseinaphotorealisticstyle0.jpg?trim=0,0,0,0&width=2000)
-!(https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle2.jpg?trim=0,0,0,0&width=2000)
+![DALL-E generated Image Version 1](https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle6.jpg?trim=0,0,0,0&width=2000)
+![DALL-E generated Image Version 2](https://images.openai.com/blob/65f7e2f3-cbd1-43c9-b2c5-7d8a3ebb9e3c/Anastronautridingahorseinaphotorealisticstyle0.jpg?trim=0,0,0,0&width=2000)
+![DALL-E generated Image Version 3](https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle2.jpg?trim=0,0,0,0&width=2000)
 (nach https://openai.com/dall-e-2)
 
 Vollständig generierte Grafiken von Midjourney (https://www.midjourney.com/home/)
 Input: “A majestic mountain landscape, soaring peaks covered in snow, lush green valleys, and a pristine alpine lake reflecting the sky. Capture the grandeur of nature, with dramatic lighting and rich, vivid colors. Include diverse flora and fauna to add depth and interest. Otus 85mm f/1.4 ZF.2 Lens, ISO 200, f/4, 1/250s, — ar 16:9 — q 2 — v 5”
-!(https://miro.medium.com/v2/resize:fit:720/format:webp/0*Qi_yt_MsNDLXhP_D.png)
+![Midjourney  generated Image 1](https://miro.medium.com/v2/resize:fit:720/format:webp/0*Qi_yt_MsNDLXhP_D.png)
 Input: “Serene seascape, tranquil azure waves lapping the shore, golden sands, and distant rocky cliffs. Capture the scene at sunset, with warm, soft lighting and a sky painted in hues of orange and pink. Include seashells, seaweed, and driftwood for added interest. Use a long exposure for a dreamy, blurred effect on the water. Canon EF 16–35mm f/2.8L III USM lens at 20mm, ISO 100, f/11, 6s — ar 3:2 — q 1 — v 5”
-!(https://miro.medium.com/v2/resize:fit:720/format:webp/0*c8BggDqFY48RFOjt.png)
+![Midjourney  generated Image 2](https://miro.medium.com/v2/resize:fit:720/format:webp/0*c8BggDqFY48RFOjt.png)
 Input: “An exotic wildlife safari scene, featuring a pride of lions lounging on the sun-drenched savannah, their golden fur blending with the warm, tawny hues of the grasses. Use a telephoto lens to bring the viewer up close to the majestic creatures, while still maintaining a safe distance. Include an array of African wildlife in the background, such as giraffes, zebras, and elephants, to emphasize the diversity and richness of the safari experience. Nikon AF-S NIKKOR 200–500mm f/5.6E ED VR Lens, ISO 400, f/8, 1/500s — v 5”
-!(https://miro.medium.com/v2/resize:fit:720/format:webp/0*dchJZcX8xGWtrFMd.png)
+![Midjourney  generated Image 3](https://miro.medium.com/v2/resize:fit:720/format:webp/0*dchJZcX8xGWtrFMd.png)
 (nach https://bootcamp.uxdesign.cc/midjourney-prompts-custom-made-examples-to-elevate-your-creative-journey-part-1-101fb2d78847)
 
 Grafiken erweitern mit DALL-E 2:
 Input: 
-!(https://images.openai.com/blob/5af3c7a0-4db9-4acd-bdc2-8496a7943ae7/girl_with_pearl_earring.jpg?trim=0,0,0,0&width=2000)
+![DALL-E edited Image 1 Input](https://images.openai.com/blob/5af3c7a0-4db9-4acd-bdc2-8496a7943ae7/girl_with_pearl_earring.jpg?trim=0,0,0,0&width=2000)
 Output: 
-!(https://images.openai.com/blob/4ac9a574-3713-43ac-9423-ce39eaafa783/dall-e-introducing-outpainting.jpeg?trim=0,98,0,95&width=2000)
+![DALL-E edited Image 1 Output](https://images.openai.com/blob/4ac9a574-3713-43ac-9423-ce39eaafa783/dall-e-introducing-outpainting.jpeg?trim=0,98,0,95&width=2000)
 Input: "Add a flamingo beside the pool."
-!(https://images.openai.com/blob/aeadc340-f1f0-4250-8c99-1b5ba954b03b/original.jpg?trim=0,0,0,0&width=2000)
+![DALL-E edited Image 2 Input](https://images.openai.com/blob/aeadc340-f1f0-4250-8c99-1b5ba954b03b/original.jpg?trim=0,0,0,0&width=2000)
 Output: 
-!(https://images.openai.com/blob/aeadc340-f1f0-4250-8c99-1b5ba954b03b/0.jpg?trim=0,0,0,0&width=2000)
+![DALL-E edited Image 2 Output](https://images.openai.com/blob/aeadc340-f1f0-4250-8c99-1b5ba954b03b/0.jpg?trim=0,0,0,0&width=2000)
 (nach https://openai.com/dall-e-2)
 
 Grafiken erweitern mit Photoshop Generative Fill:
 Objekte hinzufügen:
-!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/generate-objects-gen-ai-ps.png.img.png)
+![Photoshop Generative Fill edited Image 1](https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/generate-objects-gen-ai-ps.png.img.png)
 Hintergründe verändern:
-!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/generate-backgrounds-gen-ai-ps.png.img.png)
+![Photoshop Generative Fill edited Image 2](https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/generate-backgrounds-gen-ai-ps.png.img.png)
 Grafiken erweitern/ergänzen über den Rand hinaus:
-!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/extend-images-gen-ai-ps.png.img.png)
+![Photoshop Generative Fill edited Image 3](https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/extend-images-gen-ai-ps.png.img.png)
 Objekte entfernen und Lücken schließen:
-!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/remove-objects-gen-ai-ps.png.img.png)
+![Photoshop Generative Fill edited Image 4](https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/remove-objects-gen-ai-ps.png.img.png)
 (nach https://helpx.adobe.com/photoshop/using/generative-fill.html)
 
 
