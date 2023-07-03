@@ -7,6 +7,46 @@ Durch den technologischen Fortschritt im Bereich künstliche Intelligenz eröffn
 So lassen sich mittels AI-unterstützer Tools beispielsweise automatisiert Grafiken erstellen, die der Bildwelt des Unternehmens oder des beworbenen Produkts entsprechen, sodass zum Beispiel auf aufwendige Fotoshootings verzichtet werden kann. Darüber hinaus lassen sich Grafiken mit Hilfe AI-unterstützer Tools automatisiert ergänzen, wodurch sich eine aufwendige Bildbearbeitung ersparen lässt. Auch der kreative Designprozess lässt sich mit AI unterstützen. Indem AI-unterstütze Tools automatisiert verschiedene Designansätze umsetzen, können schnell und einfach greifbare Visualisierungen erstellt werden, die als Bewertungs- und Entscheidungsgrundlage für den weiteren Designprozess dienen können (vgl. [influencermarketinghub.com](https://influencermarketinghub.com/de/ai-grafikdesign-tools/)).
 Darüber hinaus können AI-basierte Tools zur Bilderkennung dabei helfen zu untersuchen, welche Wirkung bestimmte Grafiken auf den Adressaten haben könnten (vgl. [atozofai.withgoogle.com](https://atozofai.withgoogle.com/intl/de/image-recognition/)). Auch in der Suchmaschinenoptimierung spielt die AI-basierte Bilderkennung eine Rolle. AI-basierte Tools zur Bilderkennung können Werbetreibenden dabei helfen einzuschätzen, wie Grafiken von Bilderkennungssoftware analysiert werden. Auf Basis dieser Ergebnisse können Strategien entwickelt werden, um verwendete Grafiken in Hinsicht auf die Algorithmen der Suchmaschinen zu optimieren. 
 
+###Beispiele für durch AI generierte/ergänzte Grafiken:
+
+Verschiedene Versionen vollständig generierter Grafiken von DALL-E 2 (https://openai.com/dall-e-2) für den Input "An astronaut riding a horse in photorealistic style."
+!(https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle6.jpg?trim=0,0,0,0&width=2000)
+!(https://images.openai.com/blob/65f7e2f3-cbd1-43c9-b2c5-7d8a3ebb9e3c/Anastronautridingahorseinaphotorealisticstyle0.jpg?trim=0,0,0,0&width=2000)
+!(https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle2.jpg?trim=0,0,0,0&width=2000)
+(nach https://openai.com/dall-e-2)
+
+Vollständig generierte Grafiken von Midjourney (https://www.midjourney.com/home/)
+Input: “A majestic mountain landscape, soaring peaks covered in snow, lush green valleys, and a pristine alpine lake reflecting the sky. Capture the grandeur of nature, with dramatic lighting and rich, vivid colors. Include diverse flora and fauna to add depth and interest. Otus 85mm f/1.4 ZF.2 Lens, ISO 200, f/4, 1/250s, — ar 16:9 — q 2 — v 5”
+!(https://miro.medium.com/v2/resize:fit:720/format:webp/0*Qi_yt_MsNDLXhP_D.png)
+Input: “Serene seascape, tranquil azure waves lapping the shore, golden sands, and distant rocky cliffs. Capture the scene at sunset, with warm, soft lighting and a sky painted in hues of orange and pink. Include seashells, seaweed, and driftwood for added interest. Use a long exposure for a dreamy, blurred effect on the water. Canon EF 16–35mm f/2.8L III USM lens at 20mm, ISO 100, f/11, 6s — ar 3:2 — q 1 — v 5”
+!(https://miro.medium.com/v2/resize:fit:720/format:webp/0*c8BggDqFY48RFOjt.png)
+Input: “An exotic wildlife safari scene, featuring a pride of lions lounging on the sun-drenched savannah, their golden fur blending with the warm, tawny hues of the grasses. Use a telephoto lens to bring the viewer up close to the majestic creatures, while still maintaining a safe distance. Include an array of African wildlife in the background, such as giraffes, zebras, and elephants, to emphasize the diversity and richness of the safari experience. Nikon AF-S NIKKOR 200–500mm f/5.6E ED VR Lens, ISO 400, f/8, 1/500s — v 5”
+!(https://miro.medium.com/v2/resize:fit:720/format:webp/0*dchJZcX8xGWtrFMd.png)
+(nach https://bootcamp.uxdesign.cc/midjourney-prompts-custom-made-examples-to-elevate-your-creative-journey-part-1-101fb2d78847)
+
+Grafiken erweitern mit DALL-E 2:
+Input: 
+!(https://images.openai.com/blob/5af3c7a0-4db9-4acd-bdc2-8496a7943ae7/girl_with_pearl_earring.jpg?trim=0,0,0,0&width=2000)
+Output: 
+!(https://images.openai.com/blob/4ac9a574-3713-43ac-9423-ce39eaafa783/dall-e-introducing-outpainting.jpeg?trim=0,98,0,95&width=2000)
+Input: "Add a flamingo beside the pool."
+!(https://images.openai.com/blob/aeadc340-f1f0-4250-8c99-1b5ba954b03b/original.jpg?trim=0,0,0,0&width=2000)
+Output: 
+!(https://images.openai.com/blob/aeadc340-f1f0-4250-8c99-1b5ba954b03b/0.jpg?trim=0,0,0,0&width=2000)
+(nach https://openai.com/dall-e-2)
+
+Grafiken erweitern mit Photoshop Generative Fill:
+Objekte hinzufügen:
+!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/generate-objects-gen-ai-ps.png.img.png)
+Hintergründe verändern:
+!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/generate-backgrounds-gen-ai-ps.png.img.png)
+Grafiken erweitern/ergänzen über den Rand hinaus:
+!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/extend-images-gen-ai-ps.png.img.png)
+Objekte entfernen und Lücken schließen:
+!(https://helpx.adobe.com/content/dam/help/en/photoshop/using/generative-fill/remove-objects-gen-ai-ps.png.img.png)
+(nach https://helpx.adobe.com/photoshop/using/generative-fill.html)
+
+
 ## Forschungsfragen/Zielsetzungen
 
 1. Vergleich von AI-Tools zur automatisierten Grafikerstellung und -ergänzung und deren Einsatz im Online-Marketing
@@ -29,7 +69,7 @@ Meine persönliche Motivation zu dem Thema resultiert aus verschiedenen Interess
 
 ## Vorgehensweise der Untersuchung
 
-Um untersuchen zu können welche möglichen Einsatzgebiete für AI-Tools zur automatisierten Grafikerstellung und -ergänzung im Online-Marketing in Frage kommen, wird zunächst untersucht wie Grafiken im Online-Marketing verwendet werden. Dabei wird herausgestellt zu welchem Zweck Grafiken verwendet werden, welche Erwartung diese erfüllen sollen, welche Regeln und Faktoren dabei zu beachten sind und welche Anforderungen dafür gelten. Im Zuge dessen soll ebenfalls untersucht werden, welche Möglichkeiten Werbetreibende zur Grafikerstellung ohne AI-Tools zur automatisierten Grafikerstellung und -ergänzung im Online-Marketing haben. Im nächsten Schritt werden unterschiedliche AI-Tools untersucht, die anhand ihrer Funktionalität differenziert werden. Dazu zählen unter Anderem Tools zum vollständigen Generieren von Grafiken anhand von Texteingaben, Tools zum vollständigen Generieren von Grafiken nach einem Baukastensystem, Tools zum Erweitern/Bearbeiten bereits vorhandener Grafiken mittels AI, sowie AI-Tools zur Bilderkennung. Dabei soll wenn möglich auch ein praktischer Anwendungsfall simuliert werden, um auch die praktische Umsetzbarkeit der Funktionen zu untersuchen. Im Anschluss sollen die untersuchten AI-Tools hinsichtlich ihrer Funktionalität im Zusammenhang mit dem im Vorfeld identifizierten Einsatzgebieten von Grafiken im Online-Marketing evaluiert werden, um festzustellen welche Prozesse bei der Grafikerstellung und -ergänzung für den Einsatz im Online-Marketing durch die Verwendung von AI-Tools optimiert werden können. Dabei werden die untersuchten Tools mit Blick auf Zeitaufwand, Wirtschaftlichkeit, Gestaltungsmöglichkeiten und Wissensvermittlung mit den im Vorfeld indentifizierten, herkömmlichen/etablierten Methoden verglichen. Schließlich soll der Einsatz von AI-Tools kritisch eingeordnet werden. Dazu gehört das Identifizieren von möglichen Risiken, sowie möglicherweise bisher ungenutzten Potentialen, wie sich weitere Arbeitsschritte mit der Weiterentwicklung von AI-Tools zur automatisierten Grafikerstellung und -ergänzung im Online-Marketing in Zukunft weiter optimieren lassen.
+Um untersuchen zu können welche möglichen Einsatzgebiete für AI-Tools zur automatisierten Grafikerstellung und -ergänzung im Online-Marketing in Frage kommen, wird zunächst via Literaturrecherche untersucht wie Grafiken im Online-Marketing verwendet werden. Dabei wird herausgestellt zu welchem Zweck Grafiken verwendet werden, welche Erwartung diese erfüllen sollen, welche Regeln und Faktoren dabei zu beachten sind und welche Anforderungen dafür gelten. Grundsätzlich soll auf typische (generische) Anwendungsfälle im Online-Marketing eingegangen werden. Dabei sollen die Regeln und Faktoren sowie Anforderungen dieser sich jeweils lediglich auf die Erfüllung des Anwendungsfalls beziehen. Im Zuge dessen soll ebenfalls untersucht werden, welche Möglichkeiten Werbetreibende zur Grafikerstellung ohne AI-Tools zur automatisierten Grafikerstellung und -ergänzung im Online-Marketing haben. Im nächsten Schritt werden unterschiedliche AI-Tools untersucht, die anhand ihrer Funktionalität differenziert werden. Dazu zählen unter Anderem Tools zum vollständigen Generieren von Grafiken anhand von Texteingaben, Tools zum vollständigen Generieren von Grafiken nach einem Baukastensystem, Tools zum Erweitern/Bearbeiten bereits vorhandener Grafiken mittels AI, sowie AI-Tools zur Bilderkennung. Dabei soll wenn möglich auch ein praktischer Anwendungsfall simuliert werden, um auch die praktische Umsetzbarkeit der Funktionen zu untersuchen. Im Anschluss sollen die untersuchten AI-Tools hinsichtlich ihrer Funktionalität im Zusammenhang mit dem im Vorfeld identifizierten Einsatzgebieten von Grafiken im Online-Marketing evaluiert werden, um festzustellen welche Prozesse bei der Grafikerstellung und -ergänzung für den Einsatz im Online-Marketing durch die Verwendung von AI-Tools optimiert werden können. Dabei werden die untersuchten Tools mit Blick auf Zeitaufwand, Wirtschaftlichkeit, Gestaltungsmöglichkeiten und Wissensvermittlung mit den im Vorfeld indentifizierten, herkömmlichen/etablierten Methoden verglichen. Schließlich soll der Einsatz von AI-Tools kritisch eingeordnet werden. Dazu gehört das Identifizieren von möglichen Risiken, sowie möglicherweise bisher ungenutzten Potentialen, wie sich weitere Arbeitsschritte mit der Weiterentwicklung von AI-Tools zur automatisierten Grafikerstellung und -ergänzung im Online-Marketing in Zukunft weiter optimieren lassen.
 
 ## Tools, die für die Untersuchung in Frage kommen
 
