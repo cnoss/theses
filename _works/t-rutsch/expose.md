@@ -7,7 +7,7 @@ Durch den technologischen Fortschritt im Bereich künstliche Intelligenz eröffn
 So lassen sich mittels AI-unterstützer Tools beispielsweise automatisiert Grafiken erstellen, die der Bildwelt des Unternehmens oder des beworbenen Produkts entsprechen, sodass zum Beispiel auf aufwendige Fotoshootings verzichtet werden kann. Darüber hinaus lassen sich Grafiken mit Hilfe AI-unterstützer Tools automatisiert ergänzen, wodurch sich eine aufwendige Bildbearbeitung ersparen lässt. Auch der kreative Designprozess lässt sich mit AI unterstützen. Indem AI-unterstütze Tools automatisiert verschiedene Designansätze umsetzen, können schnell und einfach greifbare Visualisierungen erstellt werden, die als Bewertungs- und Entscheidungsgrundlage für den weiteren Designprozess dienen können (vgl. [influencermarketinghub.com](https://influencermarketinghub.com/de/ai-grafikdesign-tools/)).
 Darüber hinaus können AI-basierte Tools zur Bilderkennung dabei helfen zu untersuchen, welche Wirkung bestimmte Grafiken auf den Adressaten haben könnten (vgl. [atozofai.withgoogle.com](https://atozofai.withgoogle.com/intl/de/image-recognition/)). Auch in der Suchmaschinenoptimierung spielt die AI-basierte Bilderkennung eine Rolle. AI-basierte Tools zur Bilderkennung können Werbetreibenden dabei helfen einzuschätzen, wie Grafiken von Bilderkennungssoftware analysiert werden. Auf Basis dieser Ergebnisse können Strategien entwickelt werden, um verwendete Grafiken in Hinsicht auf die Algorithmen der Suchmaschinen zu optimieren. 
 
-###Beispiele für durch AI generierte/ergänzte Grafiken:
+### Beispiele für durch AI generierte/ergänzte Grafiken:
 
 Verschiedene Versionen vollständig generierter Grafiken von DALL-E 2 (https://openai.com/dall-e-2) für den Input "An astronaut riding a horse in photorealistic style."
 ![DALL-E generated Image Version 1](https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle6.jpg?trim=0,0,0,0&width=2000)
@@ -15,13 +15,13 @@ Verschiedene Versionen vollständig generierter Grafiken von DALL-E 2 (https://o
 ![DALL-E generated Image Version 3](https://images.openai.com/blob/8a2b0833-55f2-44d6-bf4f-85f9471078f5/Anastronautridingahorseinaphotorealisticstyle2.jpg?trim=0,0,0,0&width=2000)
 (nach https://openai.com/dall-e-2)
 
-Vollständig generierte Grafiken von Midjourney (https://www.midjourney.com/home/)
+Vollständig generierte Grafiken von Midjourney (https://www.midjourney.com/home/) <br>
 Input: “A majestic mountain landscape, soaring peaks covered in snow, lush green valleys, and a pristine alpine lake reflecting the sky. Capture the grandeur of nature, with dramatic lighting and rich, vivid colors. Include diverse flora and fauna to add depth and interest. Otus 85mm f/1.4 ZF.2 Lens, ISO 200, f/4, 1/250s, — ar 16:9 — q 2 — v 5”
-![Midjourney  generated Image 1](https://miro.medium.com/v2/resize:fit:720/format:webp/0*Qi_yt_MsNDLXhP_D.png)
+![Midjourney  generated Image 1](https://miro.medium.com/v2/resize:fit:720/format:webp/0*Qi_yt_MsNDLXhP_D.png) <br>
 Input: “Serene seascape, tranquil azure waves lapping the shore, golden sands, and distant rocky cliffs. Capture the scene at sunset, with warm, soft lighting and a sky painted in hues of orange and pink. Include seashells, seaweed, and driftwood for added interest. Use a long exposure for a dreamy, blurred effect on the water. Canon EF 16–35mm f/2.8L III USM lens at 20mm, ISO 100, f/11, 6s — ar 3:2 — q 1 — v 5”
-![Midjourney  generated Image 2](https://miro.medium.com/v2/resize:fit:720/format:webp/0*c8BggDqFY48RFOjt.png)
+![Midjourney  generated Image 2](https://miro.medium.com/v2/resize:fit:720/format:webp/0*c8BggDqFY48RFOjt.png) <br>
 Input: “An exotic wildlife safari scene, featuring a pride of lions lounging on the sun-drenched savannah, their golden fur blending with the warm, tawny hues of the grasses. Use a telephoto lens to bring the viewer up close to the majestic creatures, while still maintaining a safe distance. Include an array of African wildlife in the background, such as giraffes, zebras, and elephants, to emphasize the diversity and richness of the safari experience. Nikon AF-S NIKKOR 200–500mm f/5.6E ED VR Lens, ISO 400, f/8, 1/500s — v 5”
-![Midjourney  generated Image 3](https://miro.medium.com/v2/resize:fit:720/format:webp/0*dchJZcX8xGWtrFMd.png)
+![Midjourney  generated Image 3](https://miro.medium.com/v2/resize:fit:720/format:webp/0*dchJZcX8xGWtrFMd.png) <br>
 (nach https://bootcamp.uxdesign.cc/midjourney-prompts-custom-made-examples-to-elevate-your-creative-journey-part-1-101fb2d78847)
 
 Grafiken erweitern mit DALL-E 2:
