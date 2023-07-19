@@ -1,6 +1,6 @@
 # Titel und Forschungsfrage
 
-## Mögliche Titel der Arbeit
+## (Mögliche) Titel der Arbeit
 - Entwicklung und Untersuchung eines Konzepts zur automatisierten Inhaltsmoderation durch Sprachmodelle in sozialen Medien  
 - Entwicklung und Evaluation eines Konzepts zur automatisierten Inhaltsmoderation durch Sprachmodelle  
 - Konzeption und Entwicklung eines Entwurfs zur automatisierten Moderation von Textinhalten durch Sprachmodelle  
@@ -11,6 +11,11 @@
 - Implementierung eines Prototyps zur automatisierten Moderation von Textinhalten durch Sprachmodelle für die WoltLab Suite Community Software  
 - *Anhand eines Prototyps:* Untersuchung zur Wirksamkeit von Sprachmodellen für die automatisierte Inhaltsmoderation in sozialen Medien  
 - *Anhand eines Prototyps:* Evaluation von Sprachmodellen zur automatisierten Inhaltsmoderation in sozialen Medien  
+
+---
+
+
+- **Konzeption und Entwicklung eines Plugins zur automatisierten Moderation von Textinhalten durch KI für die WoltLab Suite Community Software**  
 
 ## Mögliche Forschungsfragen/Zielsetzungen
 - *Übergeordnetes Ziel:* Konzeption und Entwicklung eines Plugins zur automatisierten Inhaltsmoderation durch Sprachmodelle für die WoltLab Suite Community Software (bspw. Forenbeiträge)  
