@@ -1,8 +1,13 @@
 # Titel und Forschungsfrage
 
 
-## Möglicher Titel Bachelorarbeit
-**Praxisorientierte Plugin Entwicklung: Integration von Augmented Reality in Flutter Web mit Fallback-Lösungen**
+## Finaler Titel
+**Augmented Reality für Flutter Web: Entwicklung eines Plugins anhand eines Praxisbeispiels**
+
+## Finale Forschungsfragen
+**1. Was sind die Herausforderungen und Hürden bei der Entwicklung eines Augmented Reality Plugins für Flutter Web und wie können diese gelöst werden?**
+**2. Was sind die spezifischen Anforderungen des identifizierten Anwendungsfalls an ein Augmented Reality-Plugin und welche Lösungsansätze eignen sich zur Erfüllung dieser Anforderungen?**
+
 
 ## Mögliche Titel
 1. Praxisorientierte Plugin Entwicklung: Integration von Augmented Reality in Flutter Web mit Fallback-Lösungen
