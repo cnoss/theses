@@ -9,7 +9,7 @@ E-Mail: javad.alamdar@smail.th-koeln.de
 
 Matrikelnummer: 11136142\
 MA Medieninformatik\
-Datum: 06.09.2023
+Datum: 11.09.2023
 
 ## Einleitung
 
@@ -41,8 +41,6 @@ Indem wir verschiedene Ansätze zur Implementierung von Microfrontends untersuch
 
 Das Hauptziel dieser Masterarbeit ist es, verschiedene Ansätze zur Implementierung von Microfrontends zu analysieren und miteinander zu vergleichen, um fundierte Erkenntnisse und Empfehlungen für die Auswahl und Umsetzung von Microfrontend-Architekturen in modernen Webanwendungen zu liefern. 
 
-## Motivation
-
 ## Forschungsfragen
 Vor dem Hintergrund des Kontexts und der Ziele lassen sich die folgenden Unterfragen stellen, die in dieser Arbeit beantwortet werden sollen.
 
@@ -62,17 +60,15 @@ Vor dem Hintergrund des Kontexts und der Ziele lassen sich die folgenden Unterfr
 1. Einleitung
    * Problemfeld und Kontext 
    * Zielsetzung
-   * Forschungsfragen
    * Hintergrund und Motivation
-2. Grundlagen der Webentwicklung (Archäologie der Webentwicklung)
+   * Forschungsfragen
+2. Archäologie der Webentwicklung
    1. Die Ursprünge des Webs
       1. HTML
       2. CSS
-      3. JavaScript
+      3. Javascript
     2. Dynamische Seiten, Frameworks und Bibliotheken
-    3. Client Server Architektur
-       1. Client
-       2. Server
+    3. Client Server Architekture
 3. Evolution der Webarchitekturen
    1. Dreischichtige Architektur
    2. Web service Architekture
@@ -98,8 +94,7 @@ Vor dem Hintergrund des Kontexts und der Ziele lassen sich die folgenden Unterfr
        2. Qiankun
        3. Luigi
        4. Podium
-       5. Vorteile und Herausforderungen der Verwendung von Microfrontend Frameworks
-       6. Vergleich der Eigenschaften und Funktionen der Frameworks
+       5. Vergleich der Eigenschaften und Funktionen der Frameworks
     4. Technologien und Tools for Microfrontend
        1. Web Components
        2. Module Bundler
@@ -115,14 +110,14 @@ Vor dem Hintergrund des Kontexts und der Ziele lassen sich die folgenden Unterfr
           1. Komplexität
           2. Performance
           3. Testen und Debuggen  
-6. Ansätze zur Implementierung von Microfrontends
+5. Ansätze zur Implementierung von Microfrontends
     1. iFrames
     2. Komponentenbasiertes Frontend
     3. Clientseitige Integration
     4. Serverseitige Integration
     5. Web Components
     6. Module Federation
-7. Evaluierung und Vergleich der Ansätze von Microfrontend Architektur
+6. Evaluierung und Vergleich der Ansätze von Microfrontend Architektur
     1. Definition von Evaluierungskriterien
        1. Performance
        2. Skalierbarkeit und Wartbarkeit
@@ -132,16 +127,16 @@ Vor dem Hintergrund des Kontexts und der Ziele lassen sich die folgenden Unterfr
        6. Dokumentation und Community Unterstützung
     2. Vergleich mit alternativen Architekturansätzen
     3. Analyse der Ergebnisse
-8. Fallstudien und Beispiele aus verschiedenen Branchen und Anwendungsfällen 
+7. Fallstudien und Beispiele aus verschiedenen Branchen und Anwendungsfällen 
    1. NETFLIX
    2. SPOTIFY
    3. DAZN   
-9. Fazit und Ausblick 
+8. Fazit und Ausblick 
     1. Zusammenfassung der Ergebnisse
     2. Bewertung der erreichten Ziele
     3. Ausblick und zukünftige Entwicklungen
-10. Literaturverzeichnis
-11. Anhang    
+9. Literaturverzeichnis
+10. Anhang    
      
 ## Zeitplan (noch in der Arbeit, wird nach der Gliederungsentwurf vervollständigt)
 
@@ -152,5 +147,16 @@ Vor dem Hintergrund des Kontexts und der Ziele lassen sich die folgenden Unterfr
 *	22.01 - 18.02 - Zusammenfassung und Korrektur (4 Woche)
 
 ## Ergebnis
+tbd
 
 ## Literaturverzeichnis
+
+* https://micro-frontends.org/
+* https://intellipaat.com/blog/what-is-client-server-Architecture/#:~:text=Client%20server%20architecture%20is%20a
+* Davide Taibi and Luca Mezzalira. 2022. Micro-Frontends: Principles, Implementations, and Pitfalls. SIGSOFT Softw. Eng. Notes 47, 4 (October 2022), 25–29. https://doi.org/10.1145/3561846.3561853
+* Kroiß, Manuel. From Backend to Frontend-Case study on adopting Micro Frontends from a Single Page ERP Application monolith. Diss. Wien, 2021
+* Nishizu, Yuma, and Tetsuo Kamina. "Implementing Micro Frontends Using Signal-based Web Components." Journal of Information Processing 30 (2022): 505-512
+* Baumann, Matthias. Micro-Frontends. Diss. HSR Hochschule für Technik Rapperswil, 2019
+* Tutisani, Tengiz. "Design and Architecture." Effective Software Development for the Enterprise: Beyond Domain Driven Design, Software Architecture, and Extreme Programming. Berkeley, CA: Apress, 2023. 105-175
+* Pavlenko, A., Askarbekuly, N., Megha, S., & Mazzara, M. (2020). Micro-frontends: application of microservices to web front-ends. J. Internet Serv. Inf. Secur., 10(2), 49-66
+* Bui, S. (2021). Micro frontend: Microservice implementation on Web Development.
