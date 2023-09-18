@@ -17,7 +17,9 @@ In dem Praxisprojekt wurde die Driver-App ausführlich analysiert. In dieser Arb
 
 ## Forschungsfragen
 
-Mit welchen Methoden des UX Design kann das User Interfaces des Auslieferungsprozesses der apomap Driver-Applikation otimiert werden?
+Mit welchen Methoden des UX Design kann das User Interfaces des Auslieferungsprozesses der apomap Driver-Applikation optimiert werden?
+
+Welche Auswirkung hat ein neues UX Design auf den Auslieferungsprozess der apomap Driver-App?
 
 ## Motivation
 
