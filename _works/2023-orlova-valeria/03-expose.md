@@ -1,9 +1,9 @@
 # Exposé
 > Bitte schreiben Sie Ihr Exposé in diese Markdown Datei.
 
-**Arbeitstitel:** Online Kunst greifbarer machen mit WebVR (AT)
+**Arbeitstitel:** Traditionelle Kunst online greifbarer machen mit WebVR (AT)
 
-**Forschungsfrage:** Welche Form von VR-Interaktionselementen ermöglicht Interessierten einen besseren (anderes Wort) Zugang zu Kunst im Web?
+**Forschungsfrage:** Welche Form von VR-Interaktionselementen fördern für Interessierten den Zugang zu Kunst im Web?
 
 **Autorin:** Valeria Orlova
 
@@ -18,22 +18,53 @@
 
 Das Cranach Digital Archive (CDA) ist ein Forschungsprojekt der Stiftung Museum Kunstpalast in Düsseldorf und der Technischen Hochschule Köln welche die Erhaltung, Erschließung, sowie Erforschung und Nutzungsvermittlung der Werke und Archivalien Lucas Cranachs des Älteren, seiner Söhne und seiner Werkstatt umfasst. Die digitalisierte Kollektion seiner Gemälde ist online für Forscher und Interessierte zur Betrachtung zugänglich.
 
+(Ergänzen: Warum ist das wichtig/ interessant?)
+
 Das Ziel dieser Arbeit ist es diese Gemälde und die dazugehörigen Informationen mithilfe von modernen Web Technologien wie WebVR an Interessierte auf spannende Weise zu vermitteln.
 
-(Ergänzen: Warum ist das wichtig?)
+Aktuell gibt es verschiedene Anbieter, die Kunstmuseen und anderen Kunstausstellern die Option anbieten ihre gesammelten digitalisierten Werke in einer VR-Galerie auszustellen (Beispiele: siehe Weitere Quellen: [VR-Galerie-Applikationen](#VRGaleries)). Demgegenüber soll diese Arbeit alternative Herangehensweisen an die Präsentation von digitalisierter Kunst erforschen, die folgende Kriterien erfüllen sollen:
 
-Aktuell gibt es verschiedene Anbieter, die Kunstmuseen und anderen Kunstausstellern die Option anbieten, ihre gesammelten digitalisierten Werke in einer VR-Galerie auszustellen (Beispiele: siehe Weitere Quellen: [VR Galerie Applikationen](#VRGaleries)).
+1. Die bereits existierenden Inhalte der Text- und Bilddaten des CDA können für die Applikation verwendet werden und die Herstellung neuer Inhalte für die VR-Applikation beschränkt sich auf ein Minimum.
+
+2. Die Interaktionsmöglichkeiten der VR-Anwendung sind nutzertauglich für eine breite Palette an Nutzenden, da diese allen Besuchern des CDA zugänglich sein soll.
+
+3. Die Interaktioinsmöglichkeiten sollen den Nutzenden Spaß machen, um den bildenden Aspekt zu unterstützen und diesen nicht überschatten.
+
 
 ## Forschungsstand
 Die Idee Kunstgalerien in VR darzustellen existiert schon seit über 20 Jahren. So hat beispielsweise bereits 2001 die Stiftung der hellenistischen Welt in Athen VR genutzt um lehrreiche Inhalte über den Hellenismus zu vermitteln. (Rossou, 2001)
 
-...
+Noch deutlich früher in 1993 wurden schon Ideen untersucht mithilfe von VR die Lehre zu unterstützen (Pantelidis, 1993).
+
+Im Kontext eines VR-Museumsbesuches wurden auch verschiedene Arten der Interaktion untersucht und wie diese von verschiedenen Nutzergruppen genutzt und angenommen wurden. So sollte die meist geringere technische Affinität von älteren Personen bedacht werden. Laut einer Studie aus Finnland aus dem Sommer 2023 tendierten ältere Besucher eher zum Zuhören und Beobachten bei einer solchen VR-Ausstellung, während jüngere Besucher eher die interaktiven Elemente ausprobierten (Vishwanath, 2023).
+
+Interaktive VR-Applikationen werden jedoch allgemein als eindeutig immersiver wahrgenommen, auch im Vergleich zu einer 360-Video-Tour durch ein Museum (Kalving et al., 2022).
+
 ## Konzept
 > - Forschungsfrage
 > - Hypothesen + Begründung
 > - Methodik + Begründung
 > - Daten
 > - evtl. benötigte Mittel
+
+Wie kann WebVR eingesetzt werden, um eine bedeutsame sowie unterhaltsame Erfahrung bei der Entdeckung und Erforschung digitalisierter Kunstwerke zu ermöglichen? Und wie kann auf "spannende" Weise gelehrt werden? Welche Faktoren spielen dabei eine Rolle?
+
+Playfulness und Gamification sind immer beliebter werdende Konzepte in Bildung und Lehre, unter anderem da sie die Motivation und Lernfähigkeit von Personen steigern können (Lazzaro, 2021)(Malone, 1982).
+
+Durch die sich immer weiter steigernde Zugänglichkeit von VR-Hardware in privaten Haushalten, sowie die erweiterten Interaktionsmöglichkeiten im dreidimensionelen Raum hat Playfulness viel Potenzial zur Integration in das digitale Erlebnis einer Kunstgalerie.
+
+Bei einer Umfrage in Deutschland zu genutzten Virtual-Reality-Inhalten gaben rund 91 Prozent der befragten VR-Nutzer an, mit einer VR-Brille Computer- und Videospiele gespielt zu haben. Im Vergleich dazu haben nur 16% die VR-Brille dazu genutzt um Museen, Ausstellungen oder Messen virtuell zu besuchen und nur 13% nutzten diese für Bildungs- oder Lernprojekte. (Statista, 2023)
+
+Daher ist es zu erwarten, dass Playfulness und Gamification-Elemente ein wichtiger Bestandteil für die positive Rezeption der VR-Kunstausstellung sind.
+
+Um diese Annahme zu überprüfen soll ein Konzept entwickelt werden, welches Playfulness und Gamification-Elemente miteinbezieht.
+
+In der Inspiration-Phase soll zunächst eine Annäherung an das Verständnis von "spannenden" Inhalten geschehen. Es soll eine Recherche und Auswahl der VR Technologien und deren Limitierungen, sowie eine Zielgruppen- und Marktanalyse stattfinden. Darüber hinaus sollen auch die Theorien zu und Anwendung von Playfulness und Gamification erkundet werden.
+
+In der Ideation-Phase werden basierend auf dem gesammelten Wissen Ideen generiert und eingeordnet, die in das Gesamtkonzept der VR-Anwendung hineinspielen sollen. Hierbei soll die herkömmliche Darstellungweise (Imitation einer physischen Kunstausstellung) hinterfragt und alternative Darstellungsweisen gefunden werden. Nach kleineren Iterationen zur Überprüfung der Ideen soll entschieden werden, ob das Gesamtkonzept oder ein einzelnes Design-Element verfeinert und in größerem Scope getestet werden soll.
+
+In der Implementation-Phase soll ein Prototyp entwickelt und mit potenziellen Nutzenden getestet werden. Ein Fragebogen soll dabei helfen die Bewertungen der Nutzenden aus den Tests qualitativ und quantitativ zu evaluieren.
+
 
 ## Gliederung
 
@@ -46,47 +77,28 @@ Die Idee Kunstgalerien in VR darzustellen existiert schon seit über 20 Jahren. 
 7. Fazit und Ausblick
 
 ## Zeitplan
+| Wann | Was |
+|--|--|
+| 1. Monat: | <b>Inspiration Phase</b> – Recherche und Auswahl der VR Technologien und deren Limitierungen, Zielgruppen- und Marktanalyse. Erkundung der Theorien zu und Anwendung von Playfulness und Gamification.
+| 2. Monat: | <b>Ideation Phase</b> – Erstellung eines Konzept für eine VR Kunst-Galerie, die auf neue Weisen Inhalte an Interessierte vermitteln kann.
+| 3. Monat: | Fertigstellung des Konzepts und Überprüfung in einem low fidelity Prototypen.
+| 4. Monat: | <b>Implementation Phase</b> – Implementierung in einen high fidelity Prototypen: Entweder des Gesamtonzepts oder eines bestimmten Design-Elements.
+| 5. Monat: | Fertigstellung des Prototypen und Vorbereitung der User Tests
+| 6. Monat: | Durchführung der User Tests und Evaluation des Konzepts/ Design-Elements
 
-### 1. Monat
-Inspiration Phase:
-
-Recherche und Auswahl der VR Technologien und deren Limitierungen, Zielgruppenanalyse, Marktanalyse.
-
-Annäherung an das Verständnis von "spannenden" Inhalten.
-
-Grundfragen: Wie kann auf "spannende" Weise gelehrt werden? Welche Faktoren spielen dabei eine Rolle?
-
-Hierbei soll die herkömmliche Darstellungweise (Imitation einer physischen Kunstausstellung) hinterfragt und alternative Darstellungsweisen gefunden werden.
-
-### 2. Monat
-Ideation Phase:
-
-Erstellung eines Konzept für eine VR Kunst-Galerie, die auf neue Weisen Inhalte an Interessierte vermitteln kann.
-
-Hierbei sollen neue Ansätze zur Präsentation von Kunst im digitalen, dreidimensionalen Raum erkundet werden, abseits der traditionellen Darstellung in Form von physischen Kunstausstellungen.
-
-### 3. Monat
-Fertigstellung des Konzepts und Überprüfung in einem low fidelity Prototypen.
-
-Hier wird entschieden, ob das Gesamtkonzept oder ein einzelnes Design-Element verfeinert und in größerem Scope getestet werden soll.
-
-### 4. Monat
-Implementierung in einen high fidelity Prototypen:
-
-Entweder des Gesamtonzepts oder eines bestimmten Design-Elements
-### 5. Monat
-Fertigstellung des Prototypen und Vorbereitung der User Tests
-
-### 6. Monat
-Durchführung der User Tests und Evaluation des Konzepts/ Design-Elements
 
 ## Literatur
 - [Roussou, Maria. (2001). Immersive Interactive Virtual Reality in the Museum.](https://www.researchgate.net/publication/2861971_Immersive_Interactive_Virtual_Reality_in_the_Museum)
-- 
+- [Pantelidis, Veronica S. (1993). Virtual Reality in the Classroom.](https://www.jstor.org/stable/44428033?typeAccessWorkflow=login)
+- [Vishwanath, Gautam. (2023). Enhancing Engagement through Digital Cultural Heritage: A Case Study about Senior Citizens using a Virtual Reality Museum.](https://dl.acm.org/doi/10.1145/3573381.3596154)
+- [Kalving, Matilda et al. (2022). Comparing VR and Desktop 360 Video Museum Tours.](https://dl.acm.org/doi/10.1145/3568444.3570596)
+- [Lazzaro, Nicole. (2012). Why We Play: Affect and the Fun of Games—Designing Emotions for Games, Entertainment Interfaces, and Interactive Products.](https://www.taylorfrancis.com/chapters/edit/10.1201/b11963-ch-31/play-nicole-lazzaro)
+- [Malone, Thomas W. (1982). Heuristics for designing enjoyable user interfaces: Lessons from computer games.](https://dl.acm.org/doi/10.1145/800049.801756)
+- [Statista. (2023). Für welche Inhalte haben Sie Virtual Reality bereits genutzt?](https://de.statista.com/statistik/daten/studie/1247695/umfrage/umfrage-zu-beliebten-einsatzszenarien-fuer-virtual-reality-in-deutschland/)
 
 ## weitere Quellen
 
-### <a id="VRGaleries">VR Galerie Applikationen</a>
+### <a id="VRGaleries">VR-Galerie-Applikationen</a>
 - https://vrallart.com/
 - https://www.artsteps.com/
 - https://www.smithsonianmag.com/travel/worlds-first-entirely-virtual-art-museum-is-open-for-visitors-180975759/
