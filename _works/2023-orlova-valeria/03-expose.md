@@ -1,9 +1,8 @@
 # Exposé
-> Bitte schreiben Sie Ihr Exposé in diese Markdown Datei.
 
-**Arbeitstitel:** Traditionelle Kunst online greifbarer machen mit WebVR (AT)
+**Arbeitstitel:** Traditionelle Kunst und deren Forschung online für Interessierte greifbarer machen mit WebVR (AT)
 
-**Forschungsfrage:** Welche Form von VR-Interaktionselementen fördern für Interessierten den Zugang zu Kunst im Web?
+**Forschungsfrage:** Wie kann WebVR eingesetzt werden, um eine bedeutsame sowie unterhaltsame Erfahrung bei der Entdeckung und Erforschung digitalisierter Kunstwerke zu ermöglichen?
 
 **Autorin:** Valeria Orlova
 
@@ -11,16 +10,9 @@
 
 ## Einleitung
 
-> - Thema
-> - Motivation
-> - Relevanz
-> - Zielsetzung
+Das Cranach Digital Archive (CDA) ist ein Forschungsprojekt der Stiftung Museum Kunstpalast in Düsseldorf und der Technischen Hochschule Köln welches die Erhaltung, Erschließung, sowie Erforschung und Nutzungsvermittlung der Werke und Archivalien Lucas Cranachs des Älteren, seiner Söhne und seiner Werkstatt umfasst. Die digitalisierte Kollektion seiner Gemälde ist online für Forscher und Interessierte zur Betrachtung zugänglich.
 
-Das Cranach Digital Archive (CDA) ist ein Forschungsprojekt der Stiftung Museum Kunstpalast in Düsseldorf und der Technischen Hochschule Köln welche die Erhaltung, Erschließung, sowie Erforschung und Nutzungsvermittlung der Werke und Archivalien Lucas Cranachs des Älteren, seiner Söhne und seiner Werkstatt umfasst. Die digitalisierte Kollektion seiner Gemälde ist online für Forscher und Interessierte zur Betrachtung zugänglich.
-
-(Ergänzen: Warum ist das wichtig/ interessant?)
-
-Das Ziel dieser Arbeit ist es diese Gemälde und die dazugehörigen Informationen mithilfe von modernen Web Technologien wie WebVR an Interessierte auf spannende Weise zu vermitteln.
+Das Ziel dieser Arbeit ist es diese Gemälde und die dazugehörigen Informationen mithilfe von modernen Web-Technologien wie WebVR an Interessierte auf spannende Weise zu vermitteln.
 
 Aktuell gibt es verschiedene Anbieter, die Kunstmuseen und anderen Kunstausstellern die Option anbieten ihre gesammelten digitalisierten Werke in einer VR-Galerie auszustellen (Beispiele: siehe Weitere Quellen: [VR-Galerie-Applikationen](#VRGaleries)). Demgegenüber soll diese Arbeit alternative Herangehensweisen an die Präsentation von digitalisierter Kunst erforschen, die folgende Kriterien erfüllen sollen:
 
@@ -28,30 +20,25 @@ Aktuell gibt es verschiedene Anbieter, die Kunstmuseen und anderen Kunstausstell
 
 2. Die Interaktionsmöglichkeiten der VR-Anwendung sind nutzertauglich für eine breite Palette an Nutzenden, da diese allen Besuchern des CDA zugänglich sein soll.
 
-3. Die Interaktioinsmöglichkeiten sollen den Nutzenden Spaß machen, um den bildenden Aspekt zu unterstützen und diesen nicht überschatten.
+3. Die Interaktionsmöglichkeiten sollen den Nutzenden Spaß machen, um den bildenden Aspekt zu unterstützen und diesen nicht überschatten.
 
 
 ## Forschungsstand
 Die Idee Kunstgalerien in VR darzustellen existiert schon seit über 20 Jahren. So hat beispielsweise bereits 2001 die Stiftung der hellenistischen Welt in Athen VR genutzt um lehrreiche Inhalte über den Hellenismus zu vermitteln. (Rossou, 2001)
 
-Noch deutlich früher in 1993 wurden schon Ideen untersucht mithilfe von VR die Lehre zu unterstützen (Pantelidis, 1993).
+Noch deutlich früher im Jahr 1993 wurden schon Ideen untersucht mithilfe von VR die Lehre zu unterstützen (Pantelidis, 1993).
 
 Im Kontext eines VR-Museumsbesuches wurden auch verschiedene Arten der Interaktion untersucht und wie diese von verschiedenen Nutzergruppen genutzt und angenommen wurden. So sollte die meist geringere technische Affinität von älteren Personen bedacht werden. Laut einer Studie aus Finnland aus dem Sommer 2023 tendierten ältere Besucher eher zum Zuhören und Beobachten bei einer solchen VR-Ausstellung, während jüngere Besucher eher die interaktiven Elemente ausprobierten (Vishwanath, 2023).
 
 Interaktive VR-Applikationen werden jedoch allgemein als eindeutig immersiver wahrgenommen, auch im Vergleich zu einer 360-Video-Tour durch ein Museum (Kalving et al., 2022).
 
 ## Konzept
-> - Forschungsfrage
-> - Hypothesen + Begründung
-> - Methodik + Begründung
-> - Daten
-> - evtl. benötigte Mittel
 
-Wie kann WebVR eingesetzt werden, um eine bedeutsame sowie unterhaltsame Erfahrung bei der Entdeckung und Erforschung digitalisierter Kunstwerke zu ermöglichen? Und wie kann auf "spannende" Weise gelehrt werden? Welche Faktoren spielen dabei eine Rolle?
+Wie kann WebVR eingesetzt werden, um eine bedeutsame sowie unterhaltsame Erfahrung bei der Entdeckung und Erforschung digitalisierter Kunstwerke zu ermöglichen? Wie kann auf spannende Weise über Kunstforschung gelehrt werden und welche Faktoren spielen dabei eine Rolle?
 
 Playfulness und Gamification sind immer beliebter werdende Konzepte in Bildung und Lehre, unter anderem da sie die Motivation und Lernfähigkeit von Personen steigern können (Lazzaro, 2021)(Malone, 1982).
 
-Durch die sich immer weiter steigernde Zugänglichkeit von VR-Hardware in privaten Haushalten, sowie die erweiterten Interaktionsmöglichkeiten im dreidimensionelen Raum hat Playfulness viel Potenzial zur Integration in das digitale Erlebnis einer Kunstgalerie.
+Durch die sich immer weiter steigernde Zugänglichkeit von VR-Hardware in privaten Haushalten, sowie die erweiterten Interaktionsmöglichkeiten im dreidimensionalen Raum hat Playfulness viel Potenzial zur Integration in das digitale Erlebnis einer Kunstgalerie.
 
 Bei einer Umfrage in Deutschland zu genutzten Virtual-Reality-Inhalten gaben rund 91 Prozent der befragten VR-Nutzer an, mit einer VR-Brille Computer- und Videospiele gespielt zu haben. Im Vergleich dazu haben nur 16% die VR-Brille dazu genutzt um Museen, Ausstellungen oder Messen virtuell zu besuchen und nur 13% nutzten diese für Bildungs- oder Lernprojekte. (Statista, 2023)
 
