@@ -1,8 +1,17 @@
 # Exposé
 
-**Arbeitstitel:** Traditionelle Kunst und deren Forschung online für Interessierte greifbarer machen mit WebVR (AT)
+**Arbeitstitel:**
 
-**Forschungsfrage:** Wie kann WebVR eingesetzt werden, um eine bedeutsame sowie unterhaltsame Erfahrung bei der Entdeckung und Erforschung digitalisierter Kunstwerke zu ermöglichen?
+Wie man Kunst online für Interessierte mithilfe von WebVR erlebbar machen kann: WebVR Erlebnisraum am Beispiel des Cranach Digital Archive
+
+**Forschungsfragen:**
+- Wie kann WebVR eingesetzt werden, um eine bedeutsame sowie unterhaltsame Erfahrung bei der Entdeckung und Erforschung digitalisierter Kunstwerke zu ermöglichen?
+
+- Wie gestaltet man VR Interaktionselemente, sodass diese Kunst für Interessierte greifbarer machen, lehrreiche Inhalte spannend vermitteln und dabei nutzertauglich sind?
+
+- Wie kann der dreidimensionale Raum in VR effektiver genutzt werden, um Kunst auf spannende Weise an Interessierte zu vermitteln?
+
+- Sind die Bestandsdaten des CDA ausreichend für eine interaktive und spannende WebVR-Applikation oder müssen diese um bestimmte Daten angereichert werden?
 
 **Autorin:** Valeria Orlova
 
@@ -12,7 +21,7 @@
 
 Das Cranach Digital Archive (CDA) ist ein Forschungsprojekt der Stiftung Museum Kunstpalast in Düsseldorf und der Technischen Hochschule Köln welches die Erhaltung, Erschließung, sowie Erforschung und Nutzungsvermittlung der Werke und Archivalien Lucas Cranachs des Älteren, seiner Söhne und seiner Werkstatt umfasst. Die digitalisierte Kollektion seiner Gemälde ist online für Forscher und Interessierte zur Betrachtung zugänglich.
 
-Das Ziel dieser Arbeit ist es diese Gemälde und die dazugehörigen Informationen mithilfe von modernen Web-Technologien wie WebVR an Interessierte auf spannende Weise zu vermitteln.
+Das Ziel dieser Arbeit ist es die Kollektion der 100 Meisterwerke Cranachs und die dazugehörigen Informationen mithilfe von modernen Web-Technologien wie WebVR an Interessierte auf spannende Weise zu vermitteln.
 
 Aktuell gibt es verschiedene Anbieter, die Kunstmuseen und anderen Kunstausstellern die Option anbieten ihre gesammelten digitalisierten Werke in einer VR-Galerie auszustellen (Beispiele: siehe Weitere Quellen: [VR-Galerie-Applikationen](#VRGaleries)). Demgegenüber soll diese Arbeit alternative Herangehensweisen an die Präsentation von digitalisierter Kunst erforschen, die folgende Kriterien erfüllen sollen:
 
@@ -21,6 +30,8 @@ Aktuell gibt es verschiedene Anbieter, die Kunstmuseen und anderen Kunstausstell
 2. Die Interaktionsmöglichkeiten der VR-Anwendung sind nutzertauglich für eine breite Palette an Nutzenden, da diese allen Besuchern des CDA zugänglich sein soll.
 
 3. Die Interaktionsmöglichkeiten sollen den Nutzenden Spaß machen, um den bildenden Aspekt zu unterstützen und diesen nicht überschatten.
+
+4. Die Umsetzung soll mithilfe von Webtechnologien erfolgen, sodass keine native App erforderlich ist.
 
 
 ## Forschungsstand
@@ -57,7 +68,7 @@ In der Implementation-Phase soll ein Prototyp entwickelt und mit potenziellen Nu
 
 1. Einleitung
 2. Theoretischer Hintergrund
-3. Design Konzept
+3. Design Konzepte
 4. Prototypisierung
 5. User Tests
 6. Ergebnisse und Evaluation
@@ -67,11 +78,11 @@ In der Implementation-Phase soll ein Prototyp entwickelt und mit potenziellen Nu
 | Wann | Was |
 |--|--|
 | 1. Monat: | <b>Inspiration Phase</b> – Recherche und Auswahl der VR Technologien und deren Limitierungen, Zielgruppen- und Marktanalyse. Erkundung der Theorien zu und Anwendung von Playfulness und Gamification.
-| 2. Monat: | <b>Ideation Phase</b> – Erstellung eines Konzept für eine VR Kunst-Galerie, die auf neue Weisen Inhalte an Interessierte vermitteln kann.
-| 3. Monat: | Fertigstellung des Konzepts und Überprüfung in einem low fidelity Prototypen.
-| 4. Monat: | <b>Implementation Phase</b> – Implementierung in einen high fidelity Prototypen: Entweder des Gesamtonzepts oder eines bestimmten Design-Elements.
-| 5. Monat: | Fertigstellung des Prototypen und Vorbereitung der User Tests
-| 6. Monat: | Durchführung der User Tests und Evaluation des Konzepts/ Design-Elements
+| 2. Monat: | <b>Ideation Phase</b> – Verschiedene Konzepte für eine VR Kunst-Galerie erstellen, die auf neue Weisen Inhalte an Interessierte vermitteln kann, sowie Beginn der Implementation Phase.
+| 3. Monat: | <b>Implementation Phase</b> –  Prototypisierung der Konzepte.
+| 4. Monat: | Fertigstellung des Prototypen und Vorbereitung und Durchführung der ersten User Tests.
+| 5. Monat: | Evaluation der Konzepte anhand des User-Feedbacks. Anpassungen an Konzepten und Prototypen.
+| 6. Monat: | Durchführung weiterer User Tests und Evaluation der angepassten Konzepte.
 
 
 ## Literatur
