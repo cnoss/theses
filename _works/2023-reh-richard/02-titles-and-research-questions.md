@@ -2,7 +2,7 @@
 
 ## Forschungsfragen
 
-1. Wie sollte die Wahl eines Navigation-Patterns abhängig vom Content-Type und oder der Informationsarchitektur einer Webseite auf mobilen Endgeräten getroffen werden ?
+1. Wie kann die Auswahl eines Navigation-Patterns abhängig vom Content und der Informationsarchitektur einer Webseite auf mobilen Endgeräten getroffen werden?
 2. Welche allgemeinen Kriterien sind für einen Webentwickler nötig, um sich für ein bestimmtes mobiles Navigationspattern zu entscheiden ?
 3. Welche konkreten UX-Kriterien sollten bei der Wahl eines mobilen Navigationspatterns beachtet werden und welche Relevanz haben sie bei der Wahl?
 4. Wann sollte für welchen Zweck der zu entwickelnden Webseite, welches Navigation-Pattern verwendet werden ?
