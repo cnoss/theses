@@ -59,9 +59,12 @@ Um diese Annahme zu überprüfen soll ein Konzept entwickelt werden, welches Pla
 
 In der Inspiration-Phase soll zunächst eine Annäherung an das Verständnis von "spannenden" Inhalten geschehen. Es soll eine Recherche und Auswahl der VR Technologien und deren Limitierungen, sowie eine Zielgruppen- und Marktanalyse stattfinden. Darüber hinaus sollen auch die Theorien zu und Anwendung von Playfulness und Gamification erkundet werden.
 
-In der Ideation-Phase werden basierend auf dem gesammelten Wissen Ideen generiert und eingeordnet, die in das Gesamtkonzept der VR-Anwendung hineinspielen sollen. Hierbei soll die herkömmliche Darstellungweise (Imitation einer physischen Kunstausstellung) hinterfragt und alternative Darstellungsweisen gefunden werden. Nach kleineren Iterationen zur Überprüfung der Ideen soll entschieden werden, ob das Gesamtkonzept oder ein einzelnes Design-Element verfeinert und in größerem Scope getestet werden soll.
+In der Ideation-Phase werden basierend auf dem gesammelten Wissen Ideen generiert und eingeordnet, die in das Gesamtkonzept der VR-Anwendung hineinspielen sollen. Hierbei soll die herkömmliche Darstellungweise (Imitation einer physischen Kunstausstellung) hinterfragt und alternative Darstellungsweisen gefunden werden.
 
 In der Implementation-Phase soll ein Prototyp entwickelt und mit potenziellen Nutzenden getestet werden. Ein Fragebogen soll dabei helfen die Bewertungen der Nutzenden aus den Tests qualitativ und quantitativ zu evaluieren.
+
+Die Ergebnisse aus den Nutzertests werden daraufhin evaluiert und anhand dessen sollen Verbesserungen an den Konzepten und Prototypen vorgenommen werden, die für ein klareres Ergebnis in einer zweiten Iteration getestet und evaluiert werden sollen.
+
 
 
 ## Gliederung
