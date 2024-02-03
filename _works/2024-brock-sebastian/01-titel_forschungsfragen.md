@@ -1,5 +1,8 @@
 ## Masterarbeit Sebastian Brock im SS2024 - Sound und musikalische Kollaboration im Web
 
+### Finaler Titel
+Explorative Konzeption und Implementierung einer Web-basierten Plattform zur musikalischen Echtzeit-Kollaboration an Modular-Synthesizern
+
 ### Mögliche Titel
 
 1. Musikalische Kollaboration im digitalen Raum: explorative Entwicklung und Studie eines Systems zur Soundgenerierung im Web
@@ -16,8 +19,8 @@
 
 ### Forschungsfragen
 
-* Wie gut ist der Stand von Klanggenerierung im Web im Jahr 2024 im Vergleich zu Offline-Software? (=> hat das Web Berechtigung, in diesem Themenfeld überhaupt mitzumischen?)
-* Ist musikalische Echtzeit-Kollaboration in einem Web-basierten System problemlos möglich?
-* Müssen im Sinne niedrigerer Latenz Abstriche der Datenqualität in Kauf genommen werden?
-* Welche Vorteile bietet das Web generell, wenn es um kreativen musikalischen Prozess geht?
-* Kann nicht-musikalischer menschlicher Austausch von einem Web-System hinreichend umgesetzt werden? 
+* Wie ist der Stand von Klanggenerierung im Web im Jahr 2024?
+* Wie kann musikalische Echtzeit-Kollaboration in einem Web-basierten System umgesetzt werden (Architektur & Software)?
+* Wie kann mit der Wechselwirkung zwischen Latenz und Datenqualität bei synchronen Sessions umgegangen werden?
+* Welche Vorteile sind im gegebenen Rahmen im Web möglich, wenn es um kreativen musikalischen Prozess geht?
+* Kann Austausch zwischen Kollaborateuren, welcher über Klanggenerierung hinausgeht von einem Web-System hinreichend umgesetzt werden? 
