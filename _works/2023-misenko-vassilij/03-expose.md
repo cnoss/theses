@@ -9,10 +9,15 @@ Als Medieninformatiker hier einen Anfang und Überblick zu finden, um sich weite
 
 
 ### Ziel und Aufgabenstellung
-Das Ziel dieser Arbeit besteht daraus die verschiedenen Komponenten der Typographie für für Medieninformatiker*innen und vergleichbare Berufe sowie Stakeholder zusammenzufassen. Dabei soll zuerst herausgefunden werden, welche Aspekte für einen Medieninformatiker relevant sind, um eine leicht zugängliche Wissensbasis zu erstellen. Es wäre angebracht die interaktive Zusammenfassung so zu konzipieren, dass am Ende wie eine systematische Roadmap alle für Medieninformatiker*innen relevanten Themen dargestellt werden und weiterführende Wege vorgeschlagen werden.
+Das Ziel dieser Arbeit besteht darin, die verschiedenen Aspekte der Typographie sowie Best Practices in diesem Feld für Medieninformatiker*innen und vergleichbare Berufe sowie Stakeholder zusammenzufassen. Dabei soll zuerst herausgefunden werden, welche Aspekte für Medieninformatiker*innen relevant sind, um eine leicht zugängliche Wissensbasis zu erstellen. Hieraus soll eine systematische Roadmap entstehen, welche dazu dient, relevante Themen für Medieninformatiker*innen verständlich darzustellen. 
+
 
 ### Lösungsansätze
-Durch eine Recherche sollen sämtliche relevanten Aspekte der Typographie für Medieninformatiker*innen ermittelt werden, um sie anschließend auf einer interaktiven Webseite zusammenfassend zu präsentieren.
+Mittels einer Recherche sollen wichtige und relevante Aspekte der Typographie für Medieninformatiker*innen ermittelt werden. Diese Erkenntnisse sollen daraufhin auf einer interaktiven Webseite zusammengefasst und anhand von Kriterien bewertet werden. Dabei soll der Aufwand und Nutzen der Aspekte bewertet und auf einer Roadmap sortiert werden. Die Sortierung der Aspekte soll anhand der Bewertung erfolgen. Die Bewertung für den Aufwand und den Nutzen soll anhand von folgenden Fragen durchgeführt werden:
+
+-Aufwand: Wie leicht können Medieninformatiker*innen die Aspekte in ihren Projekten integrieren?
+-Nutzen: Wie relevant und hilfreich sind die Aspekte für Medieninformatiker*innen? Gibt es konkrete Beispiele oder Szenarien, in denen sie besonders nützlich sind?
+
 
 ### Motivation
-Meine Motivation für das Thema der Typographie im Web entspringt aus eigener Erfahrung, da ich selber Probleme mit dem Thema hatte. Damit zukunftige Studenten der Medieninformatik nicht auf dieses Problem stoßen, würde ich gerne dieses Thema ausführlich in Form eines Praxisprojektes erarbeiten und eventuell als eine interaktive Webseite zu verwirklichen.
+Meine Motivation für das Thema der Typographie im Web entspringt aus eigener Erfahrung, da ich selber Probleme mit dem Thema hatte. Damit zukünftige studierende Personen der Medieninformatik nicht auf dieses Problem stoßen, würde ich gerne dieses Thema ausführlich in Form eines Praxisprojektes erarbeiten und eventuell als eine interaktive Webseite zu verwirklichen.
