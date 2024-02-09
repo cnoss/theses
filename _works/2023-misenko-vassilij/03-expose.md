@@ -21,3 +21,4 @@ Mittels einer Recherche sollen wichtige und relevante Aspekte der Typographie f�
 
 ### Motivation
 Meine Motivation für das Thema der Typographie im Web entspringt aus eigener Erfahrung, da ich selber Probleme mit dem Thema hatte. Damit zukünftige studierende Personen der Medieninformatik nicht auf dieses Problem stoßen, würde ich gerne dieses Thema ausführlich in Form eines Praxisprojektes erarbeiten und eventuell als eine interaktive Webseite zu verwirklichen.
+

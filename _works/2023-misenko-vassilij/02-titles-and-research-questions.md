@@ -13,9 +13,7 @@ Titel:
 8. Webtypographie leicht gemacht: Eine zusammenfassende Ressource für Screendesigner
 9. Die Kunst der Typographie im Web: Eine Zusammenfassung für Medieninformatiker
 10. Screendesign meets Webtypographie: Wichtige Aspekte auf einen Blick
-
---> 11. Typographie im Web: Konzeption und Erstellung eines interaktiven Leitfadens für Medieninformatiker:innen
-
+11. **Typographie im Web: Konzeption und Erstellung eines interaktiven Leitfadens für Medieninformatiker:innen**
 
 
 
@@ -26,8 +24,7 @@ Forschungsfragen:
 4. Wie sollte eine Zusammenfassung gestaltet werden, um Bedürfnisse und Anforderungen von Medieninformatiker in Bezug auf typographische Informationen darzustellen?
 5. Wie kann eine Ressource gestaltet werden und was muss diese beinhalten, damit Medieninformatiker einen Einblick in relevante Aspekte der Typographie Im Web haben?
 6. Was muss eine Zusammenfassung des Themas Typographie im Web beinhalten und wie muss diese dargestellt werden, damit Medieninformatiker einen Einblick in die Thematik bekommen, um so in Zukunft mit dem Verständnis für Typographie hochwertige und benutzerfreundliche Webseiten zu gestalten.
-
---> 7. Wie kann die Zusammenfassung für das Thema Typographie im Web so gestaltet werden, dass sie benutzerfreundlich und leicht verständlich ist, um Medieninformatikern einen schnellen Zugriff auf relevante Informationen zu ermöglichen und sie für das Thema zu sensibilisieren?
+7. Wie kann die Zusammenfassung für das Thema Typographie im Web so gestaltet werden, dass sie benutzerfreundlich und leicht verständlich ist, um Medieninformatikern einen schnellen Zugriff auf relevante Informationen zu ermöglichen und sie für das Thema zu sensibilisieren?
 
 Zielsetzung:
 Es sollen relevante Informationen über das Thema der Typographie im Web für Medieninformatiker ermittelt, zusammengefasst und als eine Ressource dargestellt werden.
