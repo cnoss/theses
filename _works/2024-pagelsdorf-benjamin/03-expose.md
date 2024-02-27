@@ -15,20 +15,24 @@ Im Gedanken der freien Verfügbarkeit von Informationen werden zum Betreiben der
 
 ## Problemstellung
 Das cda stellt frei zugänglich qualitativ hochwertige Abbildungen sowie Informationen zu den Gemälden, Archivalien und Druckgrafiken bereit.
-Dies wird unter anderem durch Museen und verschiedene Privatleute ermöglicht, die ihre Gemälde von Lucas Cranach zu Verfügung stellen.
-Teilweise fordern die Besitzer, auf Grund von zum Beispiel wirtschaftlichen Interessen, dass die veröffentlichen Abbildungen nicht weiter im Internet verbreitet werden und somit ausschließlich auf der Website des cda zu finden sind.
-In der Vergangenheit ist es beispielsweise Wikimedia gelungen einige hochauflösende Abbildung abzugreifen, weshalb aktuell verschiedene Werkzeuge, wie Wasserzeichen oder spezielle Bildbetrachter eingesetzt werden, um dem entgegen zu wirken. Zum einen ist es das Ziel, dass das cda als Urheber der Abbildung erkennbar ist.
-Zum andern soll das Abgreifen von hochauflösenden Bildern unterbunden werden. Es soll gewährleistet sein, dass die Plattform auch in der Zukunft weitere Abbildungen zur Verfügung stellen kann.
-Deshalb ist es notwendig die Anforderungen der Förderer, zur Veröffentlichung der Werke von Lucas Cranach, einzuhalten.
+Dies wird unter anderem durch Museen und verschiedene private Eigentümer ermöglicht, die Abbildungen ihrer Gemälde dem cda zur Verfügung stellen.
+Teilweise fordern die Besitzer ein, dass die veröffentlichen Abbildungen nicht weiter im Internet verbreitet werden und somit ausschließlich auf der Website des cda zu finden sind.
+Da es in der Vergangenheit beispielsweise Wikimedia gelungen ist einige hochauflösende Abbildung abzugreifen, gibt es derzeit Maßnahmen zum Schutz der Abbildung.
+Darunter fällt beispielsweise der Einsatz von Wasserzeichen. Diese dienen zum Urheberrechtsschutz und zeigen, dass das cda Urheber der Abbildung ist.
+Weiterhin soll das Laden der Abbildungen in Einzelteile das Abgreifen von hochauflösenden Bildern unterbunden werden.
+Dies ermöglicht ein spzieller Bildbetrachter, der die Einzelteile der Abbildung lädt und anschließend zusammensetzt, sodass die Abbildung vollständig zu sehen ist.
 
-Dem Gegenüber steht die Anforderung, das Besucher beim Navigieren und Betrachten der Werke innerhalb der Plattform keinen Einschränkungen unterliegen.
+Mit diesen Maßnahmen soll gewährleistet sein, dass die Plattform auch in der Zukunft weitere Abbildungen zur Verfügung stellen kann.
+Zu diesem Zweck ist es notwendig die Anforderungen der Förderer, zur Veröffentlichung der Werke von Lucas Cranach, einzuhalten.
+
+Dem Gegenüber steht die Anforderung, dass Besucher beim Navigieren und Betrachten der Werke innerhalb der Plattform möglichst keinen Einschränkungen unterliegen.
 Besucher des cda können durch starke Vergrößerung einzelne Elemente der Werke detailliert betrachten und zwischen verschiedenen Aufnahmen wählen.
 Drüber hinaus erhalten sie die passenden wissenschaftlichen Informationen zum jeweiligen Werk.
 
-Mit neuen Technologien, die zum Teil KI-basiert arbeiten, ist es möglich gegen solche Schutzmaßnahmen vorzugehen.
+Mit neuen Technologien, die zum Teil KI-basiert arbeiten, ist es möglich gegen Schutzmaßnahmen, wie Wasserzeichen, vorzugehen.
 Ziel dieser Arbeit soll es sein die aktuellen Maßnahmen zu analysieren, um anschließend weitere Möglichkeiten zum Schutz aufzuzeigen.
-Darunter fällt die Adaption bestehender Maßnahmen oder das Hinzuzufügen neuer Maßnahmen.
-Nicht zuletzt sind Abwägungen zwischen Schutz und Zugänglichkeit der Abbildungen zu treffen.
+Darunter fällt die Adaption bestehender Maßnahmen oder das Hinzuzufügen neuer Maßnahmen. Nicht zuletzt sind Abwägungen zwischen Schutz und Zugänglichkeit der Abbildungen zu treffen.
+Weitere Kriterien für Schutzmaßnahmen sind Nutzen und Aufwand dessen Implementierung. Diese gilt es ebenso zu berücksichtigen und bei einer Empfehlung mit ein zu beziehen.
 
 ## Geplante Vorgehensweise
 Zunächst soll einleitend eine genauere Betrachtung der **Problemstellung** erfolgen. Dabei sollen die bisherigen Ansätze zum Schutz der Abbildungen erläutert werden.
@@ -53,4 +57,4 @@ Rahmenbedingungen wie verschiedene Plattformen (Android, iOS, Windows) und Bilds
 
 
 Abschließend soll im **Fazit** ein Resümee gezogen werden.
-Zusätzlich kann es einen Ausblick mit Handlungsempfelungen geben.
+Zusätzlich kann es einen Ausblick mit Handlungsempfehlungen geben.
