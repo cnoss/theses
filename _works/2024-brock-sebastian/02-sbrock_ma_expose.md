@@ -1,12 +1,12 @@
 ## Explorative Konzeption und Implementierung einer Web-basierten Plattform zur musikalischen Echtzeit-Kollaboration an Modular-Synthesizern
 
 ### Problemfeld und Kontext
-Das gemeinsame Musizieren mit mehreren Personen ist eine Aktivität,
+Das synchrone Musizieren mit mehreren Personen ist eine Aktivität,
 welche in aller Regel einen örtliche Nähe voraussetzt.
 Während es in Band-Kontexten, in welchen jede Person
 ein separates Instrument spielt - vor allem vorangetrieben
 durch die Covid 19-Pandemie - Software-Lösungen für
-Remote-Probesessions gibt, stellt die rein elektronische Klangerzeugung
+Remote-Probesessions gibt (z.B. Jamkazam https://jamkazam.com oder Jamulus https://jamulus.io/de/), stellt die rein elektronische Klangerzeugung
 ein abzugrenzendes Problemfeld dar.
 Synthesizer und speziell Modular-Synthesizer sind Instrumente,
 welche in der Regel nie zwei mal identisch vorhanden sein können.
@@ -26,26 +26,27 @@ die exakt gleichen Reglerpositionen einstellen und somit nie einen identischen K
 
 
 ### Ziel
-Das Ziel dieses Projekts besteht darin, Möglichkeiten für die Klangerzeugung im Web zu erforschen
+Das Ziel dieses Projekts besteht darin, Möglichkeiten für die Klangerzeugung im Web zu konzipieren
 und im Kontext eines Systems zur kollaborativen Nutzung von Modular-Synthesizern zu implementieren.
-Neben rein technischen Ansätzen zur Klangerzeugung soll dabei auch erforscht werden,
+Neben rein technischen Ansätzen zur Klangerzeugung soll dabei auch untersucht werden,
 welche Strategien zur Synchronisierung von mehreren Sessions sinnvoll sein können - hier entstehen vor allem Herausforderungen im Kontext von zu verwendenden Web-Architekturen.
 
-Der Weg zu dem definierten Ziel eines vollständig nutzbaren Systems ist dabei
-bewusst explorativ aufgebaut - durch das Projekt sollen vor allem unterschiedliche technische Möglichkeiten
+Der Weg zu dem definierten Ziel eines nutzbaren Systems ist dabei
+bewusst hinsichtlich der Konzeption und Implementierung explorativ aufgebaut - durch das Projekt sollen vor allem unterschiedliche technische Möglichkeiten
 und Implementierungsansätze durch die praktische Anwendung im Entwicklungsprozess untereinander abgewogen werden.
 
-### Aufgabenstellung
-Die zentrale Aufgabe besteht darin, das angestrebte System unter den gegebenen Rahmenbedingungen
-bestmöglich umzusetzen, sodass eine tatsächlich nutzbare Plattform zur virtuellen Kollaboration
-an Modular-Synthesizern entsteht.
 
-Dabei sollen jegliche Fragen und Herausforderungen, welche zu Beginn oder während der Implementation
+### Aufgabenstellung
+Die zentrale Aufgabe besteht darin, eine real nutzbare Plattform zur virtuellen Kollaboration
+an Modular-Synthesizern im Web umzusetzen.
+
+Dabei sollen Fragen und Herausforderungen, welche zu Beginn oder während der Implementation
 des Systems entstehen, nach wissenschaftlichen Prinzipien erforscht und beantwortet werden.
 Die praktische Umsetzung bietet dabei neben der rein theoretischen Abwägung von Handlungsansätzen
 eine reale Umsetzung der erforschten Ansätze und beweist oder widerlegt diese durch praktische Anwendung.
 Durch die explorative Gestaltung dieses Prozesses kann der gesamte Forschungs-
 und Entwicklungsablauf sehr dynamisch auf entstehende Hürden reagieren und Rückschritte ermöglichen.
+
 
 ### Lösungsansätze
 Die vorgegebene Aufgabenstellung setzt voraus, dass der gesamte technische Stapel der Klanggenerierung
@@ -138,8 +139,8 @@ wird perspektivisch Teil des Projektablaufes sein.
 ### Arbeitsergebnis
 Das Ergebnis der Arbeit ist ein funktionales, Web-basiertes System zur synchronen Kollaboration
 zwischen mindestens zwei Personen an einem virtuellen Abbild eines Modular-Synthesizers.
-Damit einher gehen jegliche Erkenntnisse, welche während der Konzeption und Entwicklung
-dieses Systems entstanden sind. Diese Erkenntnisse haben daher den Mehrwert,
+Damit einher gehen die Erkenntnisse, welche während der Konzeption und Entwicklung
+dieses konkreten Systems entstanden sind. Diese Erkenntnisse haben daher den Mehrwert,
 dass sie im Rahmen einer real stattgefundenen, praktischen Umsetzung entstanden sind
 und daher nicht (nur) auf Basis von theoretischer Forschung bestehen.
 
