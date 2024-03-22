@@ -1,6 +1,6 @@
-# Exposé zur Materarbeit
+# Exposé zur Masterarbeit
 
-## Analyse aktueller Maßnahmen zum Schutz des Urheberrechts im Internet am Beispiel der offenen Forschungsdatenbank Cranach Digital Archive
+## Analyse aktueller Maßnahmen zum Schutz von Bildern im Internet am Beispiel der offenen Forschungsdatenbank Cranach Digital Archive mit über 20000 Abbildungen
 
 ## Kontext
 Das Cranach Digital Archive, im weiteren cda genannt, ist eine offene Forschungsdatenbank über Lucas Cranach der Ältere sowie seiner Söhne und der Werkstatt.
