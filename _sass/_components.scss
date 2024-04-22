@@ -2,7 +2,7 @@
   .header,
   .page,
   .footer {
-    padding: $s;
+    padding: $m;
   }
 }
 
@@ -228,26 +228,31 @@
 
 .artefact-list{
 
-  display: flex;
-  gap: 1ch;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(12em,1fr));
+  gap: 1em;
   margin-top: 1em;
   margin-bottom: 1em;
 
   li{
-    flex: 1; 
-
+    
     vertical-align: middle;
     text-align: center;
     font-weight: $fw-medium;
     transition: all $tr-fast;
     overflow: hidden;
-
     
+  
     a{
-      display: block;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
       text-decoration: none;
+      hyphens: auto;
       border: none;
       padding: 2em;
+      aspect-ratio: 3/2;
       border: solid 1px $darken;
       border-radius: $radius-s;
       height: 100%;
@@ -271,6 +276,6 @@
       margin-top: 1ch !important;
       margin-bottom: 0.5ch !important;
     }
-
   }
+
 }
