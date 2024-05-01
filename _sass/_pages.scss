@@ -13,3 +13,26 @@
     margin-bottom: $m;
   }
 }
+
+
+// Simple
+// ------------------------------------------------------------------------- //
+
+.simple{
+
+  table{
+    margin-top: $l;
+    margin-bottom: $xl;
+
+    th{
+      text-align: left;
+      font-weight: $fw-medium;
+      padding-bottom: $s;
+    }
+
+    tr td{
+      border-top: solid 1px $green;
+      padding: $s $s $s 0;
+    }
+  }
+}
