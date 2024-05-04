@@ -14,7 +14,12 @@
 
 Möglicher Titel: Effektive CAPTCHAs für Sehbehinderte : Eine Sammlung für Entwickler
 
-## Zielbilder
+## (Neue) Zielbilder
+- [Zielbild 4](./Zielbild4.pdf)
+- [Zielbild 5](./Zielbild5.pdf)
+- [Zielbild 6](./Zielbild6.pdf)
+
+## Alte Zielbilder
 - [Zielbild 1](./Zielbild1.pdf)
 - [Zielbild 2](./Zielbild2.pdf)
 - [Zielbild 3](./Zielbild3.pdf)
