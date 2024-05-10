@@ -1,6 +1,6 @@
 # Titel und Zielbilder
 
-## Titel
+## Initiale Titel
 * State of Content Authenticity Initiative - Verfügbare Lösungen und Methoden zur Authentisierung von Inhalten im Web
 * State of Content Authenticity Initiative - Recherche aktueller Methoden zur Authentisierung von Webinhalten im Kontext eines redaktionellen Workflows
 * Authentizität in Zeiten von generativer KI - Recherche zu Methoden der Authentisierung von Webinhalten anhand eines redaktionellen Workflows
@@ -12,6 +12,13 @@
 * Beweisbar authentische Inhalte in Zeiten von generativer KI - Aktuell verfügbare Methoden zum Beweis der Authentizität von Inhalten im Kontext eines redaktionellen Workflows
 * CAI konforme Veröffentlichungsprozesse - Entwicklung einer Wissensdatenbank über verfügbare Lösungen und Methoden zur Authentisierung von Webinhalten im Kontext redaktioneller Workflows
 
+## Überarbeitete Titel
+1. Can I CAI? - Entwicklung einer Webapp zur Überprüfung von Veröffentlichungsprozessen auf lückenlose Kompatibilität mit Spezifikationen der Content Authenticity Initiative
+2. Can I CAI? - Entwicklung einer Webapp zur Überprüfung von Veröffentlichungsprozessen auf lückenlose Kompatibilität mit aufkommenden Standards der Content Authenticity Initiative zur Auszeichnung von authentischen Medien im Web
+3. Can I CAI? - Entwicklung einer Webanwendung zur Verifizierung der Kompatibilität von digitalen Veröffentlichungsprozessen mit Spezifikationen der Content Authenticity Initiative
+4. Can I CAI? - Eine Webapp zur Überprüfung von Prozessen zur Veröffentlichung von authentischen Medien im Web auf Kompatibilität mit Spezifikationen der Content Authenticity Initiative
+5. Can I CAI? - Eine Webapp zur Überprüfung von redaktionellen Workflows auf eine lückenlose Kompatibilität mit Spezifikationen der Content Authenticity Initiative zur Auszeichnung von authentischen Medien im Web
+
 ## Zielbilder
 
 ### CAI Workflow checker
@@ -21,11 +28,11 @@ Eine Webapp, welche es ermöglicht, den eigenen (redaktionellen) Workflow einzug
   * Möglicherweise illustration der Workflow-Blocks bzw. deren Verbindungen via Canvas API (auf Wissen aus PP aufbauen).
   * Recherche von Workflows und Tools anhand von Gesprächen mit Journalisten, Redakteuren, Fotografen, Social Media Beauftragten, etc. als Basis für blocks, Kategorien und Tools.
 
-### Case-Study Website
+### ~~Case-Study Website~~
 Zusammentragen tatsächlichen redaktionellen Workflows(3), Recherche von Integration von CAI/C2PA in Tools dieser Workflows, Aufzeigen von Lücken und Lösungen. Case-Study Website, welche die Ergebnisse der Recherchen anhand der Workflows aufzeigt, um so Bewusstsein für die Lücken/Problematischen Stellen in der aktuellen Kette von Tools im Kontext von authentischen Medien im Web zu schaffen.
 
-### Wissensdatenbank / Zusammentragen akuteller Stände
-Website, welche verfügbare Tools (und inkompatible, aber weitverbreitete Tools) und Lösungen zur Nutzung von CAI/C2PA für einzelne Schritte eines journalistischen/redaktionellen Workflows durchsuchbar und schnell auffindbar macht. Zudem sollte die Website einen Anriss/Verständnis für Nutzer liefern, um den Need von authentischen Medien im Web aufzuzeigen. Zusätzlich ggf. blogartige Beiträge zu aktuellen Entwicklungen und Updates von CAI/C2PA anhand der Tools/Geräte in der Wissensdatenbank.
+### ~~Wissensdatenbank / Zusammentragen akuteller Stände~~
+Website, welche verfügbare Tools (und inkompatible, aber weitverbreitete Tools) und Lösungen zur Nutzung vo~ CAI/C2PA für einzelne Schritte eines journalistischen/redaktionellen Workflows durchsuchbar und schnell auffindbar macht. Zudem sollte die Website einen Anriss/Verständnis für Nutzer liefern, um den Need von authentischen Medien im Web aufzuzeigen. Zusätzlich ggf. blogartige Beiträge zu aktuellen Entwicklungen und Updates von CAI/C2PA anhand der Tools/Geräte in der Wissensdatenbank.
   * Beispiel Kategorien: Aufnahme (Kamera), Verwaltung (DAM), Bearbeitung (Photoshop), Veröffentlichung (CMS, Image pipelines, Social Media)
   * Beispiel Imagemagick CLI Tool: aktuell inkompatibel, aber weit verbreitet, Erklärung aktueller Stand und Link zu [github repo mit diskussion](https://github.com/ImageMagick/ImageMagick/discussions/6952) über mögliche Implementierung.
   * Beispiel Leica M11p Kamera: voll kompatible, Startpunkt einer authentischen Kette von Metadaten.
