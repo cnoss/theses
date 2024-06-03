@@ -30,6 +30,8 @@ collections:
     output: true
   research-questions:
     output: true
+  works:
+    output: true
     
 ## plugins:
 #  - jekyll-paginate
