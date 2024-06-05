@@ -1,0 +1,14 @@
+---
+layout: null
+---
+
+{{site.works}}
+[
+{% assign works=site.works %}
+{% for item in  works %}
+{
+  "title": "{{ item.title }}",
+}
+{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
