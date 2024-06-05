@@ -1,0 +1,13 @@
+---
+---
+
+{{site.works}}
+[
+{% assign works=site.works|sort:'datum' |reverse %}
+{% for item in  works %}
+{
+  "title": "{{ item.titel }}",
+}
+{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
