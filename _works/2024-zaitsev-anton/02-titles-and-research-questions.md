@@ -2,7 +2,8 @@
 
 ## Titel
 
-**Gestaltung und Entwicklung einer Webanwendung zur einfachen Integration und Verwaltung von Augmented Reality-Inhalten, am Beispiel des Kooperationsprojektes “ARlebnispfade OBK”**
+**Konzeption und Entwicklung einer Webanwendung zur einfachen Integration und Verwaltung von Augmented Reality Inhalten, am Beispiel des Kooperationsprojektes “ARlebnispfade OBK”**
+
 
 Optionen:
 - Konzeption und Umsetzung einer Webanwendung zur Verwaltung von AR-Inhalten
@@ -17,9 +18,9 @@ Optionen:
 
 ## Forschungsfragen
 
-- **Welche Herausforderungen bringt die Einbindung von verschiedenen AR-Inhalten bei der redaktionellen Pflege und Verwaltung einer Webanwendung mit sich?** 
-- **Welche technischen Lösungen stehen zur Verfügung, um die Eingabe und Verwaltung von multimodalen Inhalten, einschließlich 3D-Modelle, Videos und Audio, in der Webanwendung zu unterstützen?**
-- **Wie können neue AR-Inhalte mit bestehenden Datenstrukturen (11ty) verknüpft werden, um eine fehlerfreie Integration in die Webanwendung zu gewährleisten?**
+- **Welche Herausforderungen ergeben sich aus der Integration verschiedener AR-Inhalte für die redaktionelle Pflege und Verwaltung einer Webanwendung?** 
+- **Welche technischen Lösungen stehen zur Verfügung, um die Eingabe und Verwaltung von multimodalen Inhalten (Texte, Bilder, Audio, Video, 3D-Modelle und Geolocation-Daten) in der Webanwendung zu unterstützen?**
+- **Wie können neue AR-Inhalte mit bestehenden Datenstrukturen (11ty) verknüpft werden, um eine nahtlose Integration in die Webanwendung zu gewährleisten?**
 
 
 Optionen:
