@@ -9,22 +9,22 @@ Die Anwendung wird von den Teilnehmern des Kooperationsprojektes innerhalb der T
 
 Die Funktionsweise von AR im Web und wie die Technologie genutzt werden kann, um AR-Inhalte in Webanwendungen zu integrieren, wurde bereits in einem vorherigen Praxisprojekt untersucht.
 
-Mögliche AR-Inhalte werden von Teilnehmern des Kooperationsprojektes in Form von Texten, Bildern, Audio, Videos und 3D-Modellen zur Verfügung gestellt. Aktuell werden diese manuell im Entwicklungsprozess der Anwendung integriert. Die redaktionelle Verwaltung von AR-Inhalten im Web wurde dementsprechend nicht betrachtet.
+Mögliche AR-Inhalte werden von Teilnehmern des Kooperationsprojektes in Form von Texten, Bildern, Audio, Videos, 3D-Modellen und Geolocation-Daten zur Verfügung gestellt. Aktuell werden diese manuell im Entwicklungsprozess der Anwendung integriert. Die redaktionelle Verwaltung von AR-Inhalten im Web wurde dementsprechend nicht betrachtet.
 
 ## Zielsetzung
 
-Das Ziel dieser Bachelorarbeit ist es, ein Möglichkeit zur redaktionellen Pflege von AR-Inhalten zu konzipieren und zu implementieren. Die Anwendung soll die Möglichkeit bieten, AR-Inhalte in Form von von Texten, Bildern, Audio, Videos und 3D-Modellen zu verwalten und in die bereits existierenden Datenstrukturen der "ARlebnis OBK"-Webanwendung zu integrieren.
+Das Ziel dieser Bachelorarbeit ist es, ein Möglichkeit zur vereinfachten redaktionellen Pflege von AR-Inhalten zu konzipieren und zu implementieren. Die Anwendung soll die Möglichkeit bieten, AR-Inhalte in Form von von Texten, Bildern, Audio, Videos, 3D-Modellen und Geolocation-Daten zu verwalten und in die bereits existierenden Datenstrukturen der "ARlebnis OBK"-Webanwendung zu integrieren.
 
 ## Aufgabenstellung
 
-Anhand des zuvor beschriebenen Problemfeldes, des Kontextes und des Ziels der Bachelorarbeit, kann als konkrete Aufgabenstellung die Entwicklung einer Webanwendung für die Verwaltung von AR-Inhalten im Web definiert werden, in welcher Redakteure die Möglichkeit haben, AR-Inhalte in Form von von Texten, Bildern, Audio, Videos und 3D-Modellen zu verwalten.
+Anhand des zuvor beschriebenen Problemfeldes, des Kontextes und des Ziels der Bachelorarbeit, kann als konkrete Aufgabenstellung die Entwicklung einer Webanwendung für die Verwaltung von AR-Inhalten im Web definiert werden, in welcher Redakteure die Möglichkeit haben, AR-Inhalte in Form von von Texten, Bildern, Audio, Videos, 3D-Modellen und Geolocation-Daten zu pflegen und als Vorschau einzusehen.
 
 ## Lösungsansätze und Ressourcen
 
 Folgende Ressourcen könnten für die Bearbeitung des Projektes benötigt werden:
 
 - Entwicklungsumgebung
-- AR-Inhalte zur Darstellung (Texte, Bilder, Audio, Videos und 3D-Modelle)
+- AR-Inhalte zur Darstellung (Texte, Bilder, Audio, Videos, 3D-Modelle und Geolocation-Daten)
 - Aktuelle Datenstrukturen der "ARlebnis OBK"-Webanwendung
 - Aktueller Lösungsansatz zur Integration von AR-Inhalten in der "ARlebnis OBK"-Webanwendung
 
@@ -34,7 +34,7 @@ Bereits existierende Implementierungen von AR spezifischen Content Management Sy
 
 Durch die Bearbeitung dieser Bachelorarbeit kann vor allem die Möglichkeit geschaffen werden, AR-Inhalte für das Kooperationsprojekt "ARlebnis OBK" zu integrieren.
 
-Bei einer erfolgreichen Umsetzung können technische und nicht-technische Redakteure die Möglichkeit erhalten, AR-Inhalte in Form von Texten, Bildern, Audio, Videos und 3D-Modellen zu verwalten.
+Bei einer erfolgreichen Umsetzung können technische und nicht-technische Redakteure die Möglichkeit erhalten, AR-Inhalte in Form von Texten, Bildern, Audio, Videos, 3D-Modellen und Geolocation-Daten zu verwalten und einzusehen.
 
 Als mögliches Risiko kann die Verfügbarkeit von nicht kompatiblen AR-Inhalten angesehen werden. Außerdem muss für jeden Inhaltstyp eine eigene Lösung gefunden werden, um die Inhalte zu verwalten und die Kompatibilität mit bestehenden Datenstrukturen zu gewährleisten. 
 
@@ -54,27 +54,24 @@ Die Bachelorarbeit im Rahmen der TH Köln im Kontext des Kooperationsprojektes d
 
 ### Abhängigkeiten
 
-Die Durchführung dieser Bachelorarbeit ist von keinen anderen Projekten abhängig. Die Erkennisse aus dem Praxisprojekt werden für die Bearbeitung dieser Bachelorarbeit vorausgesetzt. Erforderliche technische Ressourcen für die erfolgreiche Durchführung des Projektes müssen gegeben sein. Abhängigkeiten von den Ergebnissen dieser Bachelorarbeit gibt es nicht.
+Die Durchführung dieser Bachelorarbeit ist von keinen anderen Projekten abhängig. Die Erkenntnisse aus dem Praxisprojekt werden für die Bearbeitung dieser Bachelorarbeit vorausgesetzt. Erforderliche technische Ressourcen für die erfolgreiche Durchführung des Projektes müssen gegeben sein. Direkte Abhängigkeiten von den Ergebnissen dieser Bachelorarbeit gibt es nicht.
 
 ### Meilensteine und Zeitrahmen
 
-Die zu erarbeitenden Meilensteine können in folgende Punkte eingeteilt werden:
+Die zu erarbeitenden Meilensteine können für die Bachelorarbeit mit 9 Wochen Bearbeitungszeit in folgende Punkte eingeteilt werden:
 
-Bachelorarbeit mit 12 Wochen Bearbeitungszeit:
-
-Anmeldung Mitte Juni 2024
+Anmeldung Juni 2024 (z.B. Freitag 21.06.2024)
 - Analyse vorhandener Systeme / Literaturrecherce (1 Woche)
 - Untersuchung aktueller Lösungsansätze (Mario Faske?) (1 Woche)
-- Konzeption Interface & Datenmodellierung (2 Wochen)
-- Prototypische Implementierung des Konzeptes (3 Wochen)
-- Verprobung des Prototyps (Michael Beiderwellen?) (1 Wochen)
+- Konzeption Interface & Datenmodellierung (1 Wochen)
+- Prototypische Implementierung des Konzeptes (2 Wochen)
 - Dokumentation der Ergebnisse (3 Wochen)
 - Korrekturlesen und Abgabe (1 Woche)
 
 
 ## Arbeitsergebnis
 
-Das Ergebnis der Bachelorarbeit soll eine Webanwendung für die Verwaltung von AR-Inhalten im Web sein. Es soll untersucht werden, wie verschiedene Typen von AR-Inhalten (Texte, Bilder, Audio, Videos und 3D-Modelle) verwaltet werden können.
+Das Ergebnis der Bachelorarbeit soll eine Webanwendung für die Verwaltung von AR-Inhalten im Web sein. Es soll untersucht werden, wie verschiedene Typen von AR-Inhalten (Texte, Bilder, Audio, Videos, 3D-Modelle und Geolocation-Daten) verwaltet und eingesehen werden können.
 
 <!-- Sources -->
 

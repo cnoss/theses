@@ -17,9 +17,10 @@ Optionen:
 
 ## Forschungsfragen
 
-**Welche technischen Lösungen stehen zur Verfügung, um die Eingabe und Verwaltung von multimodalen Inhalten, einschließlich 3D-Modelle, Videos und Audio, in der Webanwendung zu unterstützen?**
+- **Welche Herausforderungen bringt die Einbindung von verschiedenen AR-Inhalten bei der redaktionellen Pflege und Verwaltung einer Webanwendung mit sich?** 
+- **Welche technischen Lösungen stehen zur Verfügung, um die Eingabe und Verwaltung von multimodalen Inhalten, einschließlich 3D-Modelle, Videos und Audio, in der Webanwendung zu unterstützen?**
+- **Wie können neue AR-Inhalte mit bestehenden Datenstrukturen (11ty) verknüpft werden, um eine fehlerfreie Integration in die Webanwendung zu gewährleisten?**
 
-**Wie können neue AR-Inhalte mit bestehenden Datenstrukturen (11ty) verknüpft werden, um eine fehlerfreie Integration in die Webanwendung zu gewährleisten?**
 
 Optionen:
 - Wie kann eine benutzerfreundliche Webanwendung konzipiert und umgesetzt werden, die Redakteuren die einfache Integration und Verwaltung von AR-Inhalten ermöglicht?
