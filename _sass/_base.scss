@@ -30,19 +30,12 @@ blockquote{
 
 h1, h2, h3, h4{
   line-height: $lh-tight;
-  font-weight: $fw-bold;
+  font-weight: $fw-medium;
   color: $headline-color;
   hyphens: none;
 }
 
-h2{
-  font-weight: $fw-medium;
-}
 
-h3{
-  font-weight: $fw-medium;
-  color: $blue;
-}
 
 h1, h2, h3, h4, p, blockquote{
   margin-bottom: $m;
