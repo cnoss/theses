@@ -58,7 +58,7 @@ h1{
 }
 
 h2{
-  font-size: $m;
+  font-size: calc($m * 1.2);
   font-weight: $fw-medium;
   color: $darker;
   @media only screen and (min-width: $vp-medium) {
@@ -67,7 +67,7 @@ h2{
 }
 
 h3{
-  font-size: $m;
+  font-size: calc($m * 1.2);
 }
 
 h2 + h3{
