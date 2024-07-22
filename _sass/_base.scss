@@ -36,7 +36,6 @@ h1, h2, h3, h4{
 }
 
 
-
 h1, h2, h3, h4, p, blockquote{
   margin-bottom: $m;
 }
@@ -61,6 +60,14 @@ h2{
 
 h3{
   font-size: calc($m * 1.2);
+
+  i[class^="icofont-"]{
+    margin-bottom: calc(1em * -0.2) !important;
+  }
+
+  &:has(i[class^="icofont-"]){
+    margin-top: $xl;
+  }
 }
 
 h2 + h3{
