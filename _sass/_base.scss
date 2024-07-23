@@ -51,7 +51,6 @@ h1{
 
 h2{
   font-size: calc($m * 1.2);
-  font-weight: $fw-medium;
   color: $darker;
   @media only screen and (min-width: $vp-medium) {
     font-size: $l;
@@ -59,7 +58,7 @@ h2{
 }
 
 h3{
-  font-size: calc($m * 1.2);
+  font-size: 1.2rem;
 
   i[class^="icofont-"]{
     margin-bottom: calc(1em * -0.2) !important;
