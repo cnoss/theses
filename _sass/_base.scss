@@ -77,11 +77,13 @@ p{
   margin-bottom: $xs;
 }
 
-p + h2{
+p + h2,
+div + h2{
   margin-top: $l;
 }
 
-p + h3{
+p + h3,
+div + h3{
   margin-top: $l;
 }
 
@@ -187,3 +189,6 @@ a:not(.wrap){
   }
 }
 
+pre, code{
+  font-family: 'Courier New', Courier, monospace;
+}
