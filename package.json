@@ -11,7 +11,8 @@
     "lint:fix": "stylelint assets/styles/*.css --fix",
     "copy:fonts": "recursive-copy -w assets/fonts compiled-assets/fonts",
     "build:css": "lightningcss --minify --bundle --sourcemap --targets '>= 0.25%' assets/styles/_combined-styles.css -o compiled-assets/styles/combined-styles.css",
-    "watch:css": "onchange 'assets/styles/*.css' -- npm run build:css"
+    "watch:css": "onchange 'assets/styles/*.css' -- npm run build:css",
+    "live": "jekyll build & npm run copy:fonts & npm run build:css"
   },
   "dependencies": {
     "decap-cms-app": "^3.1.1"

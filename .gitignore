@@ -1,3 +1,4 @@
 .jekyll-cache/
-node_modules
-compiled-assets/
+node_modules/
+compiled-assets/fonts/
+compiled-assets/styles/
