@@ -1,0 +1,63 @@
+@media only screen and (width <= 40rem) {
+  .header,
+  .page,
+  .footer {
+    padding: var(--size-m);
+  }
+}
+
+@media only screen and (width > 40rem) {
+  .header,
+  .page {
+    flex: 0 1 auto;
+    margin-left: var(--size-xl);
+
+    & > * {
+      padding-right: var(--size-xl);
+    }
+
+    & > * > *:not(.is-full-width) {
+      max-width: var(--max-width-content);
+    }
+  }
+
+  .footer {
+    padding-left: var(--size-xl);
+  }
+}
+
+
+
+/* Page
+############################################################################ */
+.page {
+  flex: 1 1 auto;
+}
+
+/* Section
+############################################################################ */
+.section {
+  &.has-seperator {
+    padding-top: var(--size-l);
+    border-top: dotted var(--border-width) var(--border-color);
+    margin-top: var(--size-xl);
+  }
+
+  &.with-gray-bg{
+    padding-top: var(--size-l);
+    padding-bottom: var(--size-xl);
+    margin-top: var(--size-xl);
+    background-color: var(--color-light);
+
+    @media only screen and (width <= 40rem) {
+      padding-left: var(--size-m);
+      margin-left: calc(var(--size-m) * -1);
+    }
+
+    @media only screen and (width > 40rem) {
+      padding-left: var(--size-xl);
+      margin-left: calc(var(--size-xl) * -1);
+    }
+  }
+}
+

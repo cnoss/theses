@@ -1,0 +1,13 @@
+/* Footer
+############################################################################ */
+.footer {
+  padding-top: var(--size-m);
+  padding-bottom: var(--size-xl);
+  background-color: var(--color-dark);
+  color: var(--color-lighter);
+
+  /* stylelint-disable-next-line no-descending-specificity */
+  a {
+    color: var(--color-lighter);
+  }
+}

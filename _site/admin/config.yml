@@ -23,7 +23,7 @@ collections:
       - label: "Status"
         name: "status"
         widget: "select"
-        options: ["proposal", "in-progress", "finished"]
+        options: ["proposal", "in-progress", "finished", "unpublished"]
       - label: "Keywords"
         name: "keywords"
         widget: "list"
@@ -54,6 +54,10 @@ collections:
         name: "type"
         widget: "select"
         options: ["Praxisprojekt", "Bachelorarbeit", "Masterarbeit"]
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        options: ["in Bearbeitung", "Published", "Unpublished"]
       - label: "Keywords"
         name: "keywords"
         widget: "list"

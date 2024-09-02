@@ -3,7 +3,7 @@ layout: work
 title: PLYTEQ – Kooperationsprojekte mit dem Institut für Technische Gebäudeausrüstung
 date: 12.02.2024
 datum: 12.02.2024
-status: proposal
+status: unpublished
 keywords:
   - UI/UX
   - Design

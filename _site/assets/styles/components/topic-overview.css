@@ -1,0 +1,35 @@
+/* Topic Overview
+############################################################################ */
+.topic-overview {
+  display: grid;
+  margin-top: var(--size-xl);
+  gap: var(--size-s);
+  grid-template-columns: repeat(auto-fill, minmax(16em, 1fr));
+  
+  .topic-item {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    padding-bottom: var(--size-m);
+    border-bottom: solid 3px var(--color-pink);
+    margin-left: 0;
+    justify-items: center;
+
+    & > * {
+      padding-right: 2em;
+    }
+
+    &::before {
+      content: none;
+    }
+  
+    h3 {
+      padding-top: var(--size-m);
+      margin-bottom: var(--size-s);
+    }
+
+    p {
+      line-height: var(--lh-tight);
+    }
+  }
+}

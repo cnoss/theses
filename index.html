@@ -41,3 +41,7 @@ class: grid
   {{ content | markdownify }}
 </section>
 
+<section class="section with-gray-bg">
+  {% capture content %}{% include finished-works.html %}{% endcapture %}
+  {{ content | markdownify }}
+</section>

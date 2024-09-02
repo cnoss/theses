@@ -1,0 +1,12 @@
+/* Herotext
+############################################################################ */
+.herotext {
+  font-size: var(--size-m);
+  font-weight: var(--fw-normal);
+  line-height: var(--lh-default);
+  
+  @media only screen and (width >= 40rem) {
+    font-size: var(--size-l);
+    font-weight: var(--fw-normal);
+  }
+}

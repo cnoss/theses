@@ -1,0 +1,17 @@
+/* Home Button
+############################################################################ */
+.home-button {
+  margin-top: var(--size-xl);
+  margin-bottom: var(--size-l);
+
+  & > a {
+    border: none;
+    text-decoration: none;
+    transition: transform var(--tr-medium);
+
+    &:hover {
+      background-color: transparent;
+      transform: rotate(60deg);
+    }
+  }
+}

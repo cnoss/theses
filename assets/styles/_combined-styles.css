@@ -4,7 +4,26 @@
 @import url("icofont.css");
 @import url("variables.css");
 @import url("base.css");
+@import url("composition.css");
 @import url("components.css");
 @import url("eyecandy.css");
 @import url("pages.css");
+
+
+/* Compontents 
+############################################################################ */
+@import url("components/artefact-list.css");
+@import url("components/avatar.css");
+@import url("components/footer.css");
+@import url("components/header.css");
+@import url("components/herotext.css");
+@import url("components/home-button.css");
+@import url("components/keywords.css");
+@import url("components/metadata.css");
+@import url("components/taglist.css");
+@import url("components/toc.css");
+@import url("components/topic-overview.css");
+
+/* Utilities 
+############################################################################ */
 @import url("utilities.css");

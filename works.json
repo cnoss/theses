@@ -2,12 +2,19 @@
 layout: null
 ---
 
-{{site.works}}
 [
 {% assign works=site.works %}
 {% for item in  works %}
 {
   "title": "{{ item.title }}",
+  "author": "{{ item.author }}",
+  "date": "{{ item.date }}",
+  "type": "{{ item.type }}",
+  "status": "{{ item.status }}",
+  "keywords": "{{ item.keywords }}",
+  "partner": "{{ item.partner }}",
+  "partner-url": "{{ item.partner-url }}",
+  "abstract": "{{ item.content | strip_newlines | escape }}"
 }
 {% unless forloop.last %},{% endunless %}
 {% endfor %}
